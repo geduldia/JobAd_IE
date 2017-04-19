@@ -1,6 +1,6 @@
 /target
 /classification/data/Original_JobAdFile_BIBB.xls
-/classification/data/db/jobAdDB.db
+/classification/db/jobAdDB.db
 /classification/output/allModels
 /classification/output/myModels
 /classification/output/rankings
