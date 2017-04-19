@@ -290,7 +290,7 @@ public class IEJobs {
 
 			Map<InformationEntity, List<ExtractionPattern>> merged = new HashMap<InformationEntity, List<ExtractionPattern>>();
 
-			List<InformationEntity> iesForUnit = new ArrayList<>(extractions.get(ieunit).keySet());
+			List<InformationEntity> iesForUnit = new ArrayList<InformationEntity>(extractions.get(ieunit).keySet());
 			InformationEntity containingIE = null;
 			for (int i = 0; i < iesForUnit.size(); i++) {
 				InformationEntity currentIE = iesForUnit.get(i);
