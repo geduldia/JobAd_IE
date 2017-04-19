@@ -1,0 +1,4 @@
+/target
+/classification
+/information_extraction
+/JobAd_IE/src/test/resources/classification/input/models
