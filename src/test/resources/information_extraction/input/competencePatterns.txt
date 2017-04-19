@@ -1,0 +1,426 @@
+
+KENNNISSE/ERFAHRUNGEN
+
+ID:	101
+DESCRIPTION:	Kenntnis/Erfahrung/...
+TOKEN:	null	--kenntnis|--erfahrung|übung|--wissen|--fähigkeit	null	false
+TOKEN:	null	null	NN|NE	false
+TOKEN:	null	null	-ADJA|-NN|-NE|-APPR|-APPRART|-ART	false
+EXTRACT:	0,1
+
+
+ID:	102
+DESCRIPTION:	Kenntnis/Erfahrung/...
+TOKEN:	null	--kenntnis|--erfahrung|übung|--wissen|--fähigkeit	null	false
+TOKEN:	null	null	NN|NE|ADJA|ADJD	false
+TOKEN:	null	null	NN|NE|CARD	false
+TOKEN:	null	null	-ADJA|-NN|-NE|-APPR|-APPRART|-ART	false
+EXTRACT:	0,1,2
+
+
+ID:	103
+DESCRIPTION:	Kenntnis/Erfahrung/...
+TOKEN:	null	--kenntnis|--erfahrung|übung|--wissen|--fähigkeit|versiert	null	false
+TOKEN:	null	null	ART|APPR|APPRART	false	
+TOKEN:	null	null	NN|NE	false
+TOKEN:	null	null	-ADJA|-NN|-NE|-APPR|-APPRART|-ART	false
+EXTRACT:	0,1,2
+
+
+ID:	104
+DESCRIPTION:	Kenntnis/Erfahrung/... 
+TOKEN:	null	--kenntnis|--erfahrung|übung|--wissen|--fähigkeit|versiert	null	false
+TOKEN:	null	null	ART|APPR|APPRART	false	
+TOKEN:	null	null	NN|NE|ADJA|ADJD	false
+TOKEN:	null	null	NN|NE|CARD	false
+TOKEN:	null	null	-NN|-NE|-ADJA|-APPR|-APPRART|-ART	false
+EXTRACT:	0,1,2,3
+
+
+
+ID:	105
+DESCRIPTION:	Kenntniss/Erfahrung/...
+TOKEN:	null	--kenntnis|--erfahrung|übung|--wissen|--fähigkeit|versiert|sicher	null	false
+TOKEN:	null	null	ART|APPR	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	NN|NE	false
+TOKEN:	null	null	-NN|-NE|-ADJA|-APPR|-APPRART|-ART	false
+EXTRACT:	0,1,2,3
+
+
+ID:	106
+DESCRIPTION:	Kenntniss/Erfahrung/...
+TOKEN:	null	--kenntnis|--erfahrung|übung|--wissen|--fähigkeit|versiert|sicher	null	false
+TOKEN:	null	null	ART|APPR	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	NN|NE|ADJA|ADJD	false
+TOKEN:	null	null	NN|NE|CARD	false
+TOKEN:	null	null	-ADJA|-NN|-NE|-APPR|-APPRART|-ART	false
+EXTRACT:	0,1,2,3,4
+
+
+ID:	107
+DESCRIPTION:	Kenntnis/Erfahrung/...
+TOKEN:	null	--kenntnis|--erfahrung|übung|--wissen|--fähigkeit|versiert|sicher	null	false
+TOKEN:	null	null	APPR|APPRART	false
+TOKEN:	null	bereich|gebiet	null	false
+TOKEN:	null	null	NN|NE	false
+TOKEN:	null	null	-ADJA|-NN|-NE|-APPR|-APPRART|-ART	false
+EXTRACT:	2,3
+
+
+ID:	108
+DESCRIPTION:	Kenntnis/Erfahrung/...
+TOKEN:	null	--kenntnis|--erfahrung|übung|--wissen|fähigkeit|versiert|sicher	null	false
+TOKEN:	null	null	APPR|APPRART	false
+TOKEN:	null	bereich|gebiet	null	false
+TOKEN:	null	null	NN|NE|ADJA|ADJD	false
+TOKEN:	null	null	NN|NE|CARD	false
+TOKEN:	null	null	-ADJA|-NN|-NE|-APPR|-APPRART|-ART	false
+EXTRACT:	2,3,4
+
+
+ID:	109
+DESCRIPTION:	Kenntnis/Erfahrung/...
+TOKEN:	null	--kenntnis|--erfahrung|übung|--wissen|--fähigkeit|versiert|sicher	null	false
+TOKEN:	null	null	APPR|APPRART	false
+TOKEN:	null	bereich|umgang|bedienen|steuerung|bedienung	null	false
+TOKEN:	null	null	ART|APPR	false
+TOKEN:	null	null	NN|NE	false
+TOKEN:	null	null	-ADJA|-NN|-NE|-APPR|-APPRART|-ART	false
+EXTRACT:	2,3,4
+
+
+ID:	110
+DESCRIPTION:	Kenntnis/Erfahrung/...
+TOKEN:	null	--kenntnis|--erfahrung|übung|--wissen|--fähigkeit|versiert|sicher	null	false
+TOKEN:	null	null	APPR|APPRART	false
+TOKEN:	null	bereich|umgang|bedienen|steuerung|bedienung	null	false
+TOKEN:	null	null	ART|APPR	false
+TOKEN:	null	null	NN|NE|ADJA|ADJD	false
+TOKEN:	null	null	NN|NE|CARD	false
+TOKEN:	null	null	-ADJA|-NN|-NE|-APPR|-APPRART|-ART	false
+EXTRACT:	2,3,4,5
+
+
+ID:	111
+DESCRIPTION:	Kenntnis/Erfahrung/...
+TOKEN:	null	--kenntnis|--erfahrung|übung|--wissen|--fähigkeit|versiert|sicher	null	false
+TOKEN:	null	null	APPR|APPRART	false
+TOKEN:	null	bereich|umgang|bedienen|steuerung|bedienung	null	false
+TOKEN:	null	null	ART|APPR	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	NN|NE	false
+TOKEN:	null	null	-ADJA|-NN|-NE|-APPR|-APPRART|-ART	false
+EXTRACT:	2,3,4,5
+
+
+ID:	112
+DESCRIPTION:	Kenntnis/Erfahrung/...
+TOKEN:	null	--kenntnis|--erfahrung|übung|--wissen|--fähigkeit|versiert|sicher	null	false
+TOKEN:	null	null	APPR|APPRART	false
+TOKEN:	null	bereich|umgang|bedienen|steuerung|bedienung	null	false
+TOKEN:	null	null	ART|APPR	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	NN|NE|ADJA|ADJD	false
+TOKEN:	null	null	NN|NE|CARD	false
+TOKEN:	null	null	-ADJA|-NN|-NE|-APPR|-APPRART|-ART	false
+EXTRACT:	2,3,4,5,6
+
+
+ID:	113
+DESCRIPTION:	Kenntnis/Erfahrung/...
+TOKEN:	null	--kenntnis|--erfahrung|übung|--wissen|--fähigkeit|versiert|sicher	null	false
+TOKEN:	null	null	ART|APPR	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	bedienung|steuerung|bereich|gebiet	null	false
+TOKEN:	null	null	NN|NE	false
+TOKEN:	null	null	-ADJA|-NN|-NE|-APPR|-APPRART|-ART	false
+EXTRACT:	3,4
+
+
+ID:	114
+DESCRIPTION:	Kenntnis/Erfahrung/...
+TOKEN:	null	--kenntnis|--erfahrung|übung|--wissen|--fähigkeit|versiert|sicher	null	false
+TOKEN:	null	null	ART|APPR	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	bedienung|steuerung|bereich|gebiet	null	false
+TOKEN:	null	null	NN|NE|ADJA|ADJD	false
+TOKEN:	null	null	NN|NE|CARD	false
+TOKEN:	null	null	-ADJA|-NN|-NE|-APPR|-APPRART|-ART	false
+EXTRACT:	3,4,5
+
+
+ID:	115
+DESCRIPTION:	Kenntnis/Erfahrung/...
+TOKEN:	null	--kenntnis|--erfahrung|übung|--wissen|--fähigkeit|versiert|sicher	null	falsee
+TOKEN:	null	null	ART|APPR	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	bedienung|steuerung|bereich|gebiet	null	false
+TOKEN:	null	null	APPR|APPRART|ART	false
+TOKEN:	null	null	NN|NE	false
+TOKEN:	null	null	-ADJA|-NN|-NE|-APPR|-APPRART|-ART	false
+EXTRACT:	3,4,5
+
+
+ID:	116
+DESCRIPTION:	Kenntnis/Erfahrung/...
+TOKEN:	null	--kenntnis|--erfahrung|übung|--wissen|--fähigkeit|versiert|sicher	null	false
+TOKEN:	null	null	ART|APPR	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	bedienung|steuerung|bereich|gebiet	null	false
+TOKEN:	null	null	APPR|APPRART|ART	false
+TOKEN:	null	null	NN|NE|ADJA|ADJD	false
+TOKEN:	null	null	NN|NE|CARD	false
+TOKEN:	null	null	-ADJA|-NN|-NE|-APPR|-APPRART|-ART	false
+EXTRACT:	3,4,5,6
+
+
+ID:	117
+DESCRIPTION:	Kenntnis/Erfahrung/...
+TOKEN:	null	null	ADJA|ADJD|NN|NE	false
+TOKEN:	null	--kenntnis	null	false
+TOKEN:	null	null	<end-POS>|$,|$.|$(|KON	false
+EXTRACT:	0,1
+
+
+ID:	118
+DESCRIPTION:	Kenntnis/Erfahrung/...
+TOKEN:	null	-kenntnis|-erfahrung|-fähigkeit|-kompetenz|-bereitschaft|-vermögen	null	false
+EXTRACT:	0
+
+
+ID:	119
+DESCRIPTION:	Kenntnis/Erfahrung/...
+TOKEN:	null	null	ADJA|ADJD|NN|NE|TRUNC	false
+TOKEN:	null	-kenntnis|-erfahrung|--fähigkeit|-bereitschaft|--kompetenz|-vermögen	null	false
+EXTRACT:	0,1
+
+
+
+
+
+AUSBILDUNGEN/ABSCHLÜSSE/BERUFSERFAHRUNG
+
+ID:	200
+DESCRIPTION:	Ausbildung/Abschluss... 
+TOKEN:	null	--ausbildung|--abschluss|berufserfahrung|--studium|--diplom|--master|--bachelor|--magister	null	false
+TOKEN:	null	zu|als|in|zum/zur|zur/zum|zum_zur|zur_zum|der	null	false
+TOKEN:	null	null	NE|NN	false
+TOKEN:	null	null	-NN|-NE	false
+EXTRACT:	0,1,2
+
+
+ID:	201
+DESCRIPTION:	Ausbildung/Abschluss... 
+TOKEN:	null	--ausbildung|--abschluss|berufserfahrung|--studium|--diplom|--master|--bachelor|--magister	null	false
+TOKEN:	null	null	NE|NN	false
+TOKEN:	null	null	-NN|-NE|-ADJD|-ADJA|-APPR	false
+EXTRACT:	0,1
+
+
+ID:	202
+DESCRIPTION:	Ausbildung/Abschluss...  
+TOKEN:	null	--ausbildung|--abschluss|berufserfahrung|--studium|--diplom|--master|--bachelor|--magister	null	false
+TOKEN:	null	zu|als|in|zum/zur|zur/zum|zum_zur|zur_zum|der	null	false
+TOKEN:	null	null	TRUNC|NN|NE	false
+TOKEN:	null	null	KON	false
+TOKEN:	null	null	NE|NN	false
+TOKEN:	null	null	-NN|-NE|-ADJD|-ADJA|-APPR	false
+EXTRACT:	0,1,2,3,4
+
+
+ID:	203
+DESCRIPTION:	Ausbildung/Abschluss... 
+TOKEN:	null	--ausbildung|--abschluss|berufserfahrung|--studium|--diplom|--master|--bachelor|--magister	null	false
+TOKEN:	null	zu|als|in|zum/zur|zur/zum|zum_zur|zur_zum|der	null	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	NE|NN	false
+TOKEN:	null	null	-NN|-NE|-ADJD|-ADJA|-APPR	false
+EXTRACT:	0,1,2,3
+
+
+ID:	204
+DESCRIPTION:	Ausbildung/Abschluss... 
+TOKEN:	null	--ausbildung|--abschluss|berufserfahrung|--studium|--diplom|--master|--bachelor|--magister	null	false
+TOKEN:	null	zu|als|in|zum/zur|zur/zum|zum_zur|zur_zum|der	null	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	TRUNC|NN|NE	false
+TOKEN:	null	null	KON	false
+TOKEN:	null	null	NE|NN	false
+TOKEN:	null	null	-NN|-NE|-ADJD|-ADJA|-APPR	false
+EXTRACT:	0,1,2,3,4,5
+
+
+ID:	205
+DESCRIPTION:	Ausbildung/Abschluss...  
+TOKEN:	null	--ausbildung|--abschluss|berufserfahrung|--studium|--diplom|--master|--bachelor|--magister	null	false
+TOKEN:	null	zu|als|in|zum/zur|zur/zum|zum_zur|zur_zum|der	null	false
+TOKEN:	null	null	NE|NN|ADJA|ADJD	false
+TOKEN:	null	null	NE|NN	false
+TOKEN:	null	null	-NN|-NE|-ADJD|-ADJA	false	
+EXTRACT:	0,1,2,3
+
+
+ID:	206
+DESCRIPTION:	Ausbildung/Abschluss...  
+TOKEN:	null	--ausbildung|--abschluss|berufserfahrung|--studium|--diplom|--master|--bachelor|--magister	null	false
+TOKEN:	null	zu|als|in|zum/zur|zur/zum|zum_zur|zur_zum|der	null	false
+TOKEN:	null	null	ADJA|ADJD	false
+TOKEN:	null	null	ADJA|ADJD	false
+TOKEN:	null	null	NE|NN	false
+TOKEN:	null	null	-NN|-NE|-ADJD|-ADJA	false
+EXTRACT:	0,1,2,3,4
+
+
+ID:	207
+DESCRIPTION:	Ausbildung/Abschluss... 
+TOKEN:	null	--ausbildung|--abschluss|berufserfahrung|--studium|--diplom|--master|--bachelor|--magister	null	false
+TOKEN:	null	in	null	false
+TOKEN:	null	bereich	null	false
+TOKEN:	null	null	NN|NE	false
+EXTRACT:	0,1,2,3
+
+
+ID:	208
+DESCRIPTION:	Ausbildung/Abschluss... 
+TOKEN:	null	--ausbildung|--abschluss|berufserfahrung|--studium|--diplom|--master|--bachelor|--magister	null	false
+TOKEN:	null	in	null	false
+TOKEN:	null	bereich	null	false
+TOKEN:	null	null	NN|NE|TRUNC	false
+TOKEN:	null	null	KON	false
+TOKEN:	null	null	NE|NN	false
+EXTRACT:	0,1,2,3,4,5
+
+
+ID:	209
+DESCRIPTION:	Ausbildung/Abschluss... 
+TOKEN:	null	--ausbildung|--abschluss|berufserfahrung|--studium|--diplom|--master|--bachelor|--magister	null	false
+TOKEN:	null	in	null	false
+TOKEN:	null	null	ADJA|ADJD	false
+TOKEN:	null	bereich	null	false
+EXTRACT:	0,1,2,3
+
+
+ID:	210
+DESCRIPTION:	Ausbildung/Abschluss... 
+TOKEN:	null	null	ADJA|ADJD	false
+TOKEN:	null	--ausbildung|--abschluss|--erfahrung|--studium|--diplom|--master|--bachelor|--magister	null	false
+TOKEN:	null	null	<end-POS>|$,|$.|APPR|APPRART |KON	false
+EXTRACT:	0,1
+
+
+
+LISTENELEMENTE
+
+ID:	300
+DESCRIPTION:	Listenelement
+TOKEN:	null	<root-LEMMA>	null	false
+[TOKEN:]	null	null	XY	false
+TOKEN:	null	null	NN|NE|ADJD|ADJA	false
+TOKEN:	null	<end-LEMMA>	null	false
+EXTRACT:	2
+
+
+ID:	301
+DESCRIPTION:	Listenelement
+TOKEN:	null	<root-LEMMA>	null	false
+[TOKEN:]	null	null	XY	false
+TOKEN:	null	null	ADJA|ADJD	false
+TOKEN:	null	null	NN|NE|ADJA|ADJD	false
+TOKEN:	null	<end-LEMMA>	null	false
+EXTRACT:	2,3
+
+
+ID:	302
+DESCRIPTION:	Listenelement
+TOKEN:	null	<root-LEMMA>	null	false
+[TOKEN:]	null	null	XY	false
+TOKEN:	null	null	ADJA|ADJD	false
+TOKEN:	null	null	ADJA|ADJD	false
+TOKEN:	null	null	NN|NE|ADJA|ADJD	false
+TOKEN:	null	<end-LEMMA>	null	false
+EXTRACT:	2,3,4
+
+
+MODIFIER
+
+ID:	400
+DESCRIPTION:	Modifier
+TOKEN:	null	null	<root-POS>|XY|$,|$(|KON	false
+TOKEN:	null	null	NN|NE	false
+[TOKEN:]	null	sein	null	false
+TOKEN:	null	MODIFIER	null	false
+TOKEN:	null	null	<end-POS>|&,|$.|$(|KON	false
+EXTRACT:	1
+
+ID:	401
+DESCRIPTION:	Modifier
+TOKEN:	null	null	<root-POS>|XY|$,|$(|KON	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	NN|NE	false
+[TOKEN:]	null	sein	null	false
+TOKEN:	null	MODIFIER	null	false
+TOKEN:	null	null	<end-POS>|&,|$.|$(|KON	false
+EXTRACT:	2
+
+ID:	402
+DESCRIPTION:	Modifier
+TOKEN:	null	null	<root-POS>|XY|$,|$(|KON	false
+TOKEN:	null	null	NN|NE|ADJD|ADJA	false
+TOKEN:	null	null	NN|NE	false
+[TOKEN:]	null	sein	null	false
+TOKEN:	null	MODIFIER	null	false
+TOKEN:	null	null	<end-POS>|&,|$.|$(|KON	false
+EXTRACT:	1,2
+
+ID:	403
+DESCRIPTION:	Modifier
+TOKEN:	null	null	<root-POS>|XY|$,|$(|KON	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	NN|NE|ADJD|ADJA	false
+TOKEN:	null	null	NN|NE	false
+[TOKEN:]	null	sein	null	false
+TOKEN:	null	MODIFIER	null	false
+TOKEN:	null	null	<end-POS>|&,|$.|$(|KON	false
+EXTRACT:	2,3
+
+ID:	404
+DESCRIPTION:	Modifier
+TOKEN:	null	null	<root-POS>|XY|$,|$(|KON	false
+TOKEN:	null	null	NN|NE|ADJD|ADJA	false
+TOKEN:	null	null	NN|NE|ADJD|ADJA	false
+TOKEN:	null	null	NN|NE	false
+[TOKEN:]	null	sein	null	false
+TOKEN:	null	MODIFIER	null	false
+TOKEN:	null	null	<end-POS>|&,|$.|$(|KON	false
+EXTRACT:	1,2,3
+
+
+ID:	501
+DESCRIPTION:	Aufzählung
+TOKEN:	null	null	ADJA|ADJD	false
+TOKEN:	null	null	$,|KON|	false
+TOKEN:	null	null	ADJA|ADJD	false
+TOKEN:	null	null	$,|KON|	false
+TOKEN:	null	null	ADJA|ADJD	false
+EXTRACT:	0
+
+
+ID:	502
+DESCRIPTION:	Aufzählung
+TOKEN:	null	null	ADJA|ADJD	false
+TOKEN:	null	null	$,|KON|	false
+TOKEN:	null	null	ADJA|ADJD	false
+TOKEN:	null	null	$,|KON|	false
+TOKEN:	null	null	ADJA|ADJD	false
+EXTRACT:	2
+
+ID:	503
+DESCRIPTION:	Aufzählung
+TOKEN:	null	null	ADJA|ADJD	false
+TOKEN:	null	null	$,|KON|	false
+TOKEN:	null	null	ADJA|ADJD	false
+TOKEN:	null	null	$,|KON|	false
+TOKEN:	null	null	ADJA|ADJD	false
+EXTRACT:	4

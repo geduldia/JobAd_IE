@@ -1,0 +1,1071 @@
+ID:	-1
+DESCRIPTION:	auto-context: Sie haben eine kaufmännische Ausbildung, sind freundlich, aufgeschlossen und kontaktfreudig, arbeiten zielorientiert und selbstständig und besitzen darüber hinaus auch ein schnelles Auffassungsvermögen - dann bewerben Sie sich umgehend bei uns.   (freundlich)
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	sein	VAFIN	false
+TOKEN:	null	null	ADJD	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	aufschließen	VVPP	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Freundlichkeit, flexibel, Geschicklichkeit   (flexibel)
+TOKEN:	null	freundlichkeit	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	ADJD	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	geschicklichkeit	NN	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: abgeschlossene Berufsausbildung vorzugsweise im technische Bereich   (abgeschlossen berufsausbildung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	IMPORTANCE	null	false
+TOKEN:	null	null	APPRART	false
+TOKEN:	null	technisch	ADJA	false
+EXTRACT:	1,2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Führerschein und PKW zum Erreichen des Arbeitsortes wünschenswert   (führerschein)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	pkw	NN	false
+TOKEN:	null	null	APPRART	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Berufserfahrung in der genannten Altersklasse ist wünschenswert   (berufserfahrung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	APPR	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	genannt	ADJA	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Verkaufserfahrung im gehobenen Einzelhandel   (verkaufserfahrung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	APPRART	false
+TOKEN:	null	gehoben	ADJA	false
+TOKEN:	null	einzelhandel	NN	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Besitz eines gültigen Staplerscheins   (staplerschein)
+TOKEN:	null	null	ART	false
+TOKEN:	null	gültig	ADJA	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Organisationsfreude, Einsatz- und Lernbereitschaft, Flexibilität   (flexibilität)
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Führerschein und PKW sind ggf.   (führerschein)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	pkw	NN	false
+TOKEN:	null	sein	VAFIN	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: * Sie sind zuverlässig, haben ein hohes Maß an Engagement und Eigenmotivation   (zuverlässig)
+TOKEN:	null	null	PPER	false
+TOKEN:	null	sein	VAFIN	false
+TOKEN:	null	null	ADJD	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	haben	VAFIN	false
+TOKEN:	null	null	ART	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Zudem sind Sie absolut zuverlässig, belastbar, arbeiten selbstständig und behalten auch in Stresssituationen den Überblick.   (belastbar)
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	ADJD	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	arbeiten	VVFIN	false
+TOKEN:	null	selbstständig	ADJD	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Zudem sind Sie absolut zuverlässig, belastbar, arbeiten selbstständig und behalten auch in Stresssituationen den Überblick.   (zuverlässig)
+TOKEN:	null	null	PPER	false
+TOKEN:	null	absolut	ADJD	false
+TOKEN:	null	null	ADJD	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Freundlichkeit, zeitliche Flexibilität im Rahmen der Öffnungszeiten (Mo.   (flexibilität)
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	zeitlich	ADJA	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	APPRART	false
+TOKEN:	null	rahmen	NN	false
+TOKEN:	null	null	ART	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Stresstoleranz, Flexibilität   (flexibilität)
+TOKEN:	null	stresstoleranz	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Verkaufserfahrung von Vorteil   (verkaufserfahrung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	IMPORTANCE	null	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Zu Ihren persönlichen Stärken zählen neben Freude am Umgang mit Menschen und Engagement auch Flexibilität und Leistungswille.   (flexibilität)
+TOKEN:	null	engagement	NN	false
+TOKEN:	null	auch	ADV	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	leistungswille	NN	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: eine abgeschlossene kaufmännische Ausbildung ist von Vorteil, jedoch nicht zwingend erforderlich   (kaufmännisch ausbildung)
+TOKEN:	null	null	ART	false
+TOKEN:	null	abgeschlossen	ADJA	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	sein	VAFIN	false
+TOKEN:	null	IMPORTANCE	null	false
+EXTRACT:	2,3
+
+
+ID:	-1
+DESCRIPTION:	auto-context: abgeschlossene Ausbildung zum_zur Verfahrensmechaniker_in für Kunststoff- und Kautschuktechnik (Fachrichtung Spritzguss) oder vergleichbare Qualifikation   (abgeschlossen ausbildung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	null	true
+TOKEN:	null	null	APPR	false
+EXTRACT:	1,2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Zuverlässigkeit, Teamfähigkeit und Kommunikationsstärke   (zuverlässigkeit)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: ein gepflegtes Erscheinungsbild wird vorausgesetzt   (gepflegt erscheinungsbild)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	werden	VAFIN	false
+TOKEN:	null	IMPORTANCE	null	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2,3
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Führerschein und PKW von Vorteil   (führerschein)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	pkw	NN	false
+TOKEN:	null	IMPORTANCE	null	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Wenn sie die Realschule mindestens mit der erweiterten mittleren Reife verlassen, einsatzfreudig sind und über eine rasche Auffassungsgabe verfügen, sollten sie ihre Chance nutzen.   (mittlerer reife)
+TOKEN:	null	null	ART	false
+TOKEN:	null	erweitert	ADJA	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	verlassen	VVINF	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	einsatzfreudig	ADJD	false
+EXTRACT:	2,3
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Freundlichkeit, Offenheit, Pünktlichkeit, Flexibilität, Zuverlässigkeit,   (flexibilität)
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Freundlichkeit, Offenheit, Pünktlichkeit, Flexibilität, Zuverlässigkeit,   (pünktlichkeit)
+TOKEN:	null	offenheit	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Freundlichkeit, Offenheit, Pünktlichkeit, Flexibilität, Zuverlässigkeit,   (zuverlässigkeit)
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: ein gepflegtes Erscheinungsbild wird vorausgesetzt   (gepflegt erscheinungsbild)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	werden	VAFIN	false
+TOKEN:	null	IMPORTANCE	null	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2,3
+
+
+ID:	-1
+DESCRIPTION:	auto-context: gerne mit Pkw und Führerschein   (führerschein)
+TOKEN:	null	pkw	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Eine abgeschlossene Berufsausbildung ist erforderlich, gerne Bewerber die auch die Meisterprüfung abgelegt haben.   (abgeschlossen berufsausbildung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	sein	VAFIN	false
+TOKEN:	null	IMPORTANCE	null	false
+TOKEN:	null	null	$,|KON	false
+EXTRACT:	2,3
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Idealerweise verfügen Sie über das Abitur oder die Fachhochschulreife bzw. einen sehr guten Abschluss einer Real- oder Handelsschule_Wirtschaftsschule.   (gut abschluss)
+TOKEN:	null	null	ART	false
+TOKEN:	null	sehr	ADV	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	TRUNC	false
+TOKEN:	null	null	$,|KON	false
+EXTRACT:	2,3
+
+
+ID:	-1
+DESCRIPTION:	auto-context: abgeschlossene Ausbildung zum_r Bäcker_in   (abgeschlossen ausbildung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	zum_r	VVFIN	false
+TOKEN:	null	bäcker_in	NE	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	1,2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Zu Ihren persönlichen Stärken gehören Zuverlässigkeit und Teamfähigkeit.   (zuverlässigkeit)
+TOKEN:	null	stärke	NN	false
+TOKEN:	null	gehören	VVFIN	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	null	true
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: ein freundlicher Umgang mit unseren Kunden sowie Teamfähigkeit sind uns wichtig.   (freundlich)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	umgang	NN	false
+TOKEN:	null	null	APPR	false
+TOKEN:	null	null	PPOSAT	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Staplerschein, Kranerfahrung sowie Erfahrung mit Stahl sind wünschenswert.   (staplerschein)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Sie haben eine abgeschlossene Ausbildung im Gewerk Lüftung_Heizung   (abgeschlossen ausbildung)
+TOKEN:	null	haben	VAFIN	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	null	true
+EXTRACT:	2,3
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Zuverlässigkeit und Teamfähigkeit   (zuverlässigkeit)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	null	true
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Flexibilität, Kontaktfreude sowie Teamfähigkeit   (flexibilität)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	kontaktfreude	NN	false
+TOKEN:	null	null	$,|KON	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: abgeschlossene Berufsausbildung, Führerschein der Kl.   (führerschein)
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	kl	NN	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: zuverlässig, flexibel, motiviert   (flexibel)
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	ADJD	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	motivieren	VVPP	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: zuverlässig, flexibel, motiviert   (zuverlässig)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ADJD	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Führerschein und Fahrzeug zum Erreichen des Arbeitsortes erforderlich   (führerschein)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	fahrzeug	NN	false
+TOKEN:	null	null	APPRART	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Zuverlässigkeit, selbständiges und gewissenhaftes Arbeiten sowie Teamfähigkeit und Montagebereitschaft setzt der Arbeitgeber voraus.   (zuverlässigkeit)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	selbständig	ADJA	false
+TOKEN:	null	null	$,|KON	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: gute Kenntnisse in MS-Office Programmen wie Excel, Word und Powerpoint   (kenntnis in ms-office)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	gut	ADJA	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	APPR	false
+TOKEN:	null	null	NE	false
+TOKEN:	null	programm	NN	false
+TOKEN:	null	null	KOKOM	false
+TOKEN:	null	excel	NN	false
+EXTRACT:	2,3,4
+
+
+ID:	-1
+DESCRIPTION:	auto-context: abgeschlossene Ausbildung zum_zur Zimmerer_Zimmerin   (abgeschlossen ausbildung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	null	true
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	1,2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Teamfähigkeit, Zuverlässigkeit und Hilfsbereitschaft   (zuverlässigkeit)
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	null	true
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: abgeschlossene Berufsausbildung zum Treibwerkmechaniker (m_w) oder vergleichbare Ausbildung   (abgeschlossen berufsausbildung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$(	false
+EXTRACT:	1,2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Abgeschlossene Ausbildung im Metallbereich   (abgeschlossen ausbildung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	null	true
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	1,2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: abgeschlossene Ausbildung zum Qualitätsbeauftragten wünschenswert oder Nachweis gleichwertiger Leistungen   (abgeschlossen ausbildung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	null	true
+TOKEN:	null	IMPORTANCE	null	false
+EXTRACT:	1,2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: ein zugewandtes, freundliches Wesen   (freundlich)
+TOKEN:	null	zugewandt	ADJA	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	wesen	NN	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Sie verfügen über eine ausgeprägte Kundenorientierung, sind flexibel und bringen idealerweise bereits erste Erfahrungen im Einzelhandel mit.   (kundenorientierung)
+TOKEN:	null	null	ART	false
+TOKEN:	null	ausgeprägt	ADJA	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	sein	VAFIN	false
+TOKEN:	null	null	null	true
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Sie verfügen über eine ausgeprägte Kundenorientierung, sind flexibel und bringen idealerweise bereits erste Erfahrungen im Einzelhandel mit.   (flexibel)
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	sein	VAFIN	false
+TOKEN:	null	null	ADJD	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	bringen	VVFIN	false
+TOKEN:	null	IMPORTANCE	null	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: sicherer Umgang mit Linux-Anwendungen wie Samba, squid, fetchmail, sendmail   (sicher)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	umgang	NN	false
+TOKEN:	null	null	APPR	false
+TOKEN:	null	linux-anwendung	NN	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Sie sind service- und kundenorientiert und haben eine gute Kommunikations - und Teamfähigkeit.   (kommunikation)
+TOKEN:	null	null	ART	false
+TOKEN:	null	gut	ADJA	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$(	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	null	true
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: mindestens Mittlere Reife oder eine abgeschlossene Ausbildung möglich   (abgeschlossen ausbildung)
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	möglich	ADJD	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2,3
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Teamfähigkeit, Flexibilität und überzeugendes Auftreten   (flexibilität)
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	überzeugend	ADJA	false
+TOKEN:	null	auftreten	NN	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Sichere Anwendung der MS-Office-Produkte   (sicher)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	anwendung	NN	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	ms-office-produkt	NN	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: ein Führerschein werden zwingend gefordert.   (führerschein)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	werden	VAFIN	false
+TOKEN:	null	IMPORTANCE	null	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Eigenverantwortliche und zuverlässige Arbeitsweise   (zuverlässig)
+TOKEN:	null	eigenverantwortlich	ADJA	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	arbeitsweise	NN	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Mit Ihrem freundlichen und sicheren Auftreten überzeugen Sie bei unseren großen und kleinen Kunden.   (freundlich)
+TOKEN:	null	null	APPR	false
+TOKEN:	null	null	PPOSAT	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	null	true
+TOKEN:	null	auftreten	NN	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Mit Ihrem freundlichen und sicheren Auftreten überzeugen Sie bei unseren großen und kleinen Kunden.   (sicher)
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	auftreten	NN	false
+TOKEN:	null	überzeugen	VVFIN	false
+TOKEN:	null	null	PPER	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: * Sie besitzen gute kommunikative, rhetorische Fähigkeiten und auch die Kompetenz, erklärungsbedürftige Sachverhalte einfach und transparent darzustellen   (kommunikativ)
+TOKEN:	null	besitzen	VVFIN	false
+TOKEN:	null	gut	ADJA	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	null	true
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Ein gepflegtes Erscheinungsbild und Freude an der Kundenbetreuung.   (gepflegt erscheinungsbild)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	freude	NN	false
+TOKEN:	null	null	APPR	false
+EXTRACT:	2,3
+
+
+ID:	-1
+DESCRIPTION:	auto-context: B (früher 3), guter Umgang mit unseren Kunden und eine selbständige Arbeitsweise.   (selbständig arbeitsweise)
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2,3
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Führerschein Kl.   (führerschein)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	kl	NE	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Sie sind im Besitz des Führerscheins der Kl.   (führerschein)
+TOKEN:	null	besitz	NN	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	kl	NN	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Belastbarkeit, Zuverlässigkeit und Freude am Umgang mit Menschen   (belastbarkeit)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Belastbarkeit, Zuverlässigkeit und Freude am Umgang mit Menschen   (zuverlässigkeit)
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	freude	NN	false
+TOKEN:	null	null	APPRART	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: selbstbewußter und sicherer Auftritt   (sicher)
+TOKEN:	null	selbstbewußt	ADJD	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	auftritt	NN	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: über einen Hauptschulabschluss verfügen, gute Deutschkenntnisse in Wort und Schrift mitbringen, ein kreativer Kopf sind und darüber hinaus noch motiviert und zuverlässig sind, dann freuen wir uns auf Ihre Bewerbung!   (zuverlässig)
+TOKEN:	null	motivieren	VVPP	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	ADJD	false
+TOKEN:	null	sein	VAFIN	false
+TOKEN:	null	null	$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Sehr sicheres Mode- und Trendgespür im Bereich Fashion und Sportswear in DOB und HAKA sowie deren kommerzielle Umsetzung (Erfahrung im Bereich Outdoorjacken erwünscht).   (sicher)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	sehr	ADV	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	TRUNC	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	trendgespür	NN	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Freundlichkeit und gute Umgangsformen   (gut umgangsform)
+TOKEN:	null	freundlichkeit	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2,3
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Motiviert, belastbar und flexibel   (belastbar)
+TOKEN:	null	motivieren	VVPP	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	ADJD	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	null	true
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Motiviert, belastbar und flexibel   (flexibel)
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	ADJD	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Belastbarkeit, Spaß am Verkauf und die Beratung von Kunden ist uns wichtig   (belastbarkeit)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	spaß	NN	false
+TOKEN:	null	null	APPRART	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Der Führerschein B (alt Kl.   (führerschein)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	B	NN	false
+TOKEN:	null	null	$(	false
+TOKEN:	null	alt	ADJD	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Verkaufserfahrung von Vorteil   (verkaufserfahrung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	IMPORTANCE	null	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Gute Kenntnisse mit den üblichen EDV Systemen, Vaudis, Elsa, WPS, ETKA_SAP setzen   (gut kenntnis)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	APPR	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	üblich	ADJA	false
+EXTRACT:	1,2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Sehr gute Kenntnisse in Corel Draw   (gut kenntnis)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	sehr	ADV	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	null	true
+EXTRACT:	2,3
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Führerschein und PKW zum Erreichen des Arbeitsortes wünschenswert   (pkw)
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	APPRART	false
+TOKEN:	null	erreichen	NN	false
+TOKEN:	null	null	ART	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Abgeschlossenes (Fach-)Hochschulstudium Wirtschaftsinformatik oder Abschluss als AOK Betriebswirt (m_w) bzw. eine vergleichbare Qualifikation oder mehrjährige einschlägige Berufserfahrung   (berufserfahrung)
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	IMPORTANCE	null	true
+TOKEN:	null	null	NN	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: gerne mit Pkw und Führerschein   (pkw)
+TOKEN:	null	gerne	ADV	false
+TOKEN:	null	null	APPR	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	null	true
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Sie verfügen über sehr gute Kenntnisse in den  typischen Tätigkeiten eines Maler_Lackierers .   (gut kenntnis)
+TOKEN:	null	null	APPR	false
+TOKEN:	null	sehr	ADV	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	APPR	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	typisch	ADJA	false
+EXTRACT:	2,3
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Berufserfahrung in der genannten Altersklasse ist wünschenswert   (berufserfahrung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	APPR	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	genannt	ADJA	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Verkaufserfahrung im gehobenen Einzelhandel   (verkaufserfahrung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	APPRART	false
+TOKEN:	null	gehoben	ADJA	false
+TOKEN:	null	einzelhandel	NN	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: gute Deutsch- und Englischkenntnisse   (gut deutsch)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	TRUNC	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	null	true
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	1,2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: * Sie haben gute Kenntnisse in den MS-Office-Programmen   (gut kenntnis)
+TOKEN:	null	null	PPER	false
+TOKEN:	null	haben	VAFIN	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	null	true
+EXTRACT:	2,3
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Fähigkeit, komplizierte Sachverhalte zu analysieren und schriftlich gut strukturiert und verständlich aufzubereiten   (schriftlich)
+TOKEN:	null	analysieren	VVINF	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	ADJD	false
+TOKEN:	null	gut	ADJD	false
+TOKEN:	null	strukturieren	VVPP	false
+TOKEN:	null	null	$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Motivation und viel Eigeninitiative   (eigeninitiative)
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	PIAT	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Führerschein und PKW sind ggf.   (pkw)
+TOKEN:	null	null	null	true
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	sein	VAFIN	false
+TOKEN:	null	ggf	ADJD	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Eigeninitiative und Eigenverantwortung   (eigeninitiative)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	eigenverantwortung	NN	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Freundlichkeit, zeitliche Flexibilität im Rahmen der Öffnungszeiten (Mo.   (freundlichkeit)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	zeitlich	ADJA	false
+TOKEN:	null	null	null	true
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: gute Kenntnisse in MS-Office Programmen wie Excel, Word und Powerpoint   (gut kenntnis)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	null	true
+TOKEN:	null	programm	NN	false
+EXTRACT:	1,2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Wenn Sie über gute Kenntnisse aus dem textilen Bereich, sowie über Erfahrungen aus dem Verkauf verfügen, freuen wir uns sehr über Ihre Bewerbung.   (gut kenntnis)
+TOKEN:	null	null	PPER	false
+TOKEN:	null	null	APPR	false
+TOKEN:	null	null	ADJA	false
+TOKEN:	null	null	null	true
+EXTRACT:	2,3
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Verkaufserfahrung von Vorteil   (verkaufserfahrung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	IMPORTANCE	null	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Verkaufserfahrung im gehobenen Einzelhandel   (verkaufserfahrung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	APPRART	false
+TOKEN:	null	gehoben	ADJA	false
+TOKEN:	null	einzelhandel	NN	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Bereitschaft zum selbstständigen Handeln und zur Eigenverantwortung   (eigenverantwortung)
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	null	APPRART	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Abgeschlossenes (Fach-)Hochschulstudium Wirtschaftsinformatik oder Abschluss als AOK Betriebswirt (m_w) bzw. eine vergleichbare Qualifikation oder mehrjährige einschlägige Berufserfahrung   (berufserfahrung)
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	IMPORTANCE	null	true
+TOKEN:	null	null	NN	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Berufserfahrung in der genannten Altersklasse ist wünschenswert   (berufserfahrung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	APPR	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	genannt	ADJA	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Verkaufserfahrung von Vorteil   (verkaufserfahrung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	IMPORTANCE	null	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Verkaufserfahrung im gehobenen Einzelhandel   (verkaufserfahrung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	APPRART	false
+TOKEN:	null	gehoben	ADJA	false
+TOKEN:	null	einzelhandel	NN	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Abgeschlossenes (Fach-)Hochschulstudium Wirtschaftsinformatik oder Abschluss als AOK Betriebswirt (m_w) bzw. eine vergleichbare Qualifikation oder mehrjährige einschlägige Berufserfahrung   (berufserfahrung)
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	IMPORTANCE	null	true
+TOKEN:	null	null	NN	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Berufserfahrung in der genannten Altersklasse ist wünschenswert   (berufserfahrung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	APPR	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	genannt	ADJA	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Verkaufserfahrung von Vorteil   (verkaufserfahrung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	IMPORTANCE	null	false
+TOKEN:	null	null	<end-POS>|$.|$,|KON	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Verkaufserfahrung im gehobenen Einzelhandel   (verkaufserfahrung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	APPRART	false
+TOKEN:	null	gehoben	ADJA	false
+TOKEN:	null	einzelhandel	NN	false
+EXTRACT:	1
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Abgeschlossenes (Fach-)Hochschulstudium Wirtschaftsinformatik oder Abschluss als AOK Betriebswirt (m_w) bzw. eine vergleichbare Qualifikation oder mehrjährige einschlägige Berufserfahrung   (berufserfahrung)
+TOKEN:	null	null	$,|KON	false
+TOKEN:	null	IMPORTANCE	null	true
+TOKEN:	null	null	NN	false
+EXTRACT:	2
+
+
+ID:	-1
+DESCRIPTION:	auto-context: Berufserfahrung in der genannten Altersklasse ist wünschenswert   (berufserfahrung)
+TOKEN:	null	null	<root-POS>|XY|$,|KON	false
+TOKEN:	null	null	NN	false
+TOKEN:	null	null	APPR	false
+TOKEN:	null	null	ART	false
+TOKEN:	null	genannt	ADJA	false
+EXTRACT:	1
+
+

@@ -1,0 +1,1505 @@
+
+TP: 244
+FP: 6
+FN: 212
+
+recall: 0.5350877192982456
+precision: 0.976
+F1Score 0.6912181303116147
+
+
+extracted Competences (184 / 250):
+
+gut umgangsform
+
+berufsausbildung zu treibwerkmechaniker
+
+abschluss als diplom-sozialpädagoge_in
+
+umgang mit erfindung
+
+gut englischkenntnis
+
+anpassungsfähigkeit
+
+kaufmännisch ausbildung
+
+ausbildung als immobilienkaufmann_-frau
+
+lernbereitschaft
+
+verantwortungsbewussen
+
+erfahrung in einzelhandel
+
+erfahrung in der projektarbeit
+
+ausbildung in gewerk lüftung_heizung
+
+kommunikation
+
+ausbildung als erzieher_in
+
+ausbildung in der hotellerie oder gastronomie
+
+ausbildung in it-bereich und berufserfahrung
+
+fremdsprachenkenntnis von vorteil
+
+flexibilität
+
+erfahrung aus der verkauf
+
+kenntnis aus der textil bereich
+
+gesundheitszeugnis
+
+kundenfreundlichkeit
+
+ausbildung als technisch zeichner
+
+betriebswirtschaftlich kenntnis
+
+verkaufserfahrung
+
+pkw-fs
+
+berufserfahrung in servicebereich
+
+erfahrung in drehtechnik
+
+kommunikationsfähigkeit
+
+kenntnis in anlagenbau
+
+kenntnis geograf
+
+mehrjährig berufserfahrung
+
+ausbildung zu qualitätsbeauftragter
+
+orthopädisch
+
+ausbildung in it-bereich
+
+gewandt
+
+vorzugsweise erfahrung
+
+berufserfahrung in der genannt altersklasse
+
+selbstständig qualitätsbewußt arbeit
+
+gut abschluss
+
+ausbildung als facharbeiter
+
+gut msr-kenntnis
+
+kenntnis in ms-office
+
+leitungserfahrung in kita-bereich
+
+erfahrung in elektromaschinenbau
+
+einfühlungsvermögen
+
+wärmedämmung
+
+ausbildung in ein it-beruf
+
+praktisch berufserfahrung
+
+kenntnis in technisch optik
+
+patent
+
+gut kommunikationsfähigkeit
+
+mittlerer reife
+
+mehrjährige berufserfahrung
+
+begeisterungsfähigkeit
+
+deutsch sprachkenntnis
+
+qualifizierend hauptschulabschluss
+
+einschlägig berufserfahrung
+
+verkaufserfahrung in gehoben einzelhandel
+
+organisationsvermögen
+
+berufsausbildung als kinderpfleger_in
+
+staplerschein
+
+gut englisch-kenntnis
+
+ausbildung zum_zur zimmerer_zimmerin
+
+röntgenschein
+
+kenntnis aus der karosseriebereich
+
+ausbildung zu sozialversicherungsfachangestellt
+
+sattelschlepper
+
+sicher
+
+abgeschlossener modedesignstudium
+
+schnell auffassungsvermögen
+
+gut pc-kenntnis
+
+bedienung von cnc-drehmaschine
+
+schichtbereitschaft
+
+ms-office kenntnis
+
+abgeschlossen ausbildung
+
+langjährig berufserfahrung
+
+sozialkompetenz
+
+deutschkenntnis in wort
+
+selbständig arbeit
+
+abgeschlossen berufsausbildung
+
+fundiert fachkenntnis
+
+sap-kenntnis von vorteil
+
+fach-)hochschulstudium wirtschaftsinformatik
+
+außenarbeit
+
+sozial kompetenz
+
+sorgfalt
+
+kenntnis in refa-methodik
+
+abschluss als aok betriebswirt
+
+zuverlässig
+
+berufsausbildung als cnc-dreher
+
+kenntnis der steuerung sinumerik
+
+berufserfahrung
+
+selbständig arbeitsweise
+
+teamarbeit_teamfähigkeit
+
+erfahrung mit umrichter
+
+alleinverantwortlich arbeit
+
+gut hauptschulabschluss
+
+kenntnis in der ms-office-programm
+
+montagebereitschaft
+
+umgang mit chemikalie
+
+kenntnis für inca
+
+studium der wirtschaftsingenieurwesen
+
+berufserfahrung in bereich service
+
+berufserfahrung in bereich qualitätsmanagement
+
+kenntnis in digitaldruck
+
+freundlich
+
+handwerklich geschick
+
+kenntnis in technisch mechanik
+
+ausbildung zur_zum krankenschwester_-pfleger
+
+englisch-kenntnis in wort
+
+erfahrung mit stahl
+
+kenntnis in bereich shell-programmierung
+
+kommunikativ
+
+gut realschulabschluss
+
+französisch sprachkenntnis
+
+kenntnis über pv-anlage
+
+pc grundkenntnis
+
+flexibel
+
+erworben leitungserfahrung
+
+ausbildung als schlosser_i
+
+allgemeinärztlich
+
+teamfähigkeit
+
+bedienung von autocad-pc
+
+reisebereitschaft
+
+berufserfahrung in kita-bereich
+
+teamfähig
+
+erfahrung mit transporeon
+
+erfahrung in bereich outdoorjacken
+
+gut deutschkenntnis
+
+programmierkenntnis
+
+kundenorientierung
+
+sap kenntnis
+
+englischkenntnis in word
+
+führerschein
+
+analytisch denken
+
+englischkenntnis
+
+erfahrung in bereich wechselbrück
+
+jahr berufserfahrung
+
+kenntnis in ms-office programm
+
+chirurgisch
+
+berufsausbildung als kinderpfleger_in oder krankenpflegehelfer_in
+
+belastbar
+
+ausbildung zu speditionskaufmann_-frau
+
+pünktlichkeit
+
+gut edv-kenntnis
+
+abschluss als dipl.-ing
+
+ausbildung als fachverkäufer_in
+
+rhetorisch fähigkeit
+
+ausbildung in metallbereich
+
+hilfsbereitschaft
+
+erfahrung in der wärmedämmung
+
+verantwortungsbewusstsein
+
+ausbildung zum_zur verfahrensmechaniker_in
+
+zuverlässigkeit
+
+ausbildung als pflegefachkraft
+
+abschluss der 10 klasse
+
+berufserfahrung in bereich prozessmanagement
+
+gepflegt erscheinungsbild
+
+adr-schein
+
+kenntnis in quarkxpress
+
+entsprechend berufserfahrung
+
+verkaufserfahrung von vorteil
+
+erster berufserfahrung
+
+ausbildung in der hotellerie
+
+kenntnis hydraulik
+
+gleichwertig abschluss
+
+kenntnis in corel draw
+
+einsatzbereitschaft
+
+erfahrung in rohrleitungsbau
+
+belastbarkeit
+
+kranerfahrung
+
+höhentauglichkeit
+
+sensorik
+
+bereich der sp-steueranlage s7
+
+kenntnis b49 katastervermessung
+
+kenntnis in bereich kfz
+
+bedienung von computer
+
+vergleichbar ausbildung
+
+umgang mit kunde
+
+erfahrung mit der software domus
+
+umgang mit fernostproduktion
+
+motivatio leistungsbereitschaft
+
+
+
+
+FALSE-POSITIVES: 
+
+chirurgisch
+	Erfahrung in einer orthopädischen, chirurgischen oder allgemeinärztlichen Praxis sollte vorhanden sein.
+
+gleichwertig abschluss
+	Guter Realschulabschluss mit Berufskolleg oder gleichwertiger Abschluss
+
+orthopädisch
+	Erfahrung in einer orthopädischen, chirurgischen oder allgemeinärztlichen Praxis sollte vorhanden sein.
+
+vorzugsweise erfahrung
+	* vorzugsweise Erfahrung mit der Software Domus und
+
+allgemeinärztlich
+	Erfahrung in einer orthopädischen, chirurgischen oder allgemeinärztlichen Praxis sollte vorhanden sein.
+
+vergleichbar ausbildung
+	abgeschlossene Berufsausbildung zum Treibwerkmechaniker (m_w) oder vergleichbare Ausbildung
+
+__________________________________________________________________________________________
+FALSE-NEGATIVES: 
+
+gut umgangsform
+	Freundlichkeit und gute Umgangsformen
+
+problemlösungspotential
+	Problemlösungspotential, Organisationsvermögen sowie Reisebereitschaft
+
+auto-cad
+	vorhanden sein sollten Kenntnisse GEOgraf, Auto-CAD, CARD1 sowie die Laufbahnausbildung für den höheren bzw. gehobenen Dienst
+
+flexibel
+	Motiviert, belastbar und flexibel
+	Freundlichkeit, flexibel, Geschicklichkeit
+	zuverlässig, flexibel, motiviert
+	Sie verfügen über eine ausgeprägte Kundenorientierung, sind flexibel und bringen idealerweise bereits erste Erfahrungen im Einzelhandel mit.
+
+berufsausbildung
+	Eine abgeschlossene Berufsausbildung ist erforderlich, gerne Bewerber die auch die Meisterprüfung abgelegt haben.
+
+gut abschluss
+	Idealerweise verfügen Sie über das Abitur oder die Fachhochschulreife bzw. einen sehr guten Abschluss einer Real- oder Handelsschule_Wirtschaftsschule.
+
+mobil
+	sind leistungsbereit und mobil
+
+warenwirtschaftssystem
+	Gute Kenntnisse im MS-Office sowie in gängigen Warenwirtschaftssystemen
+
+elsa
+	Gute Kenntnisse mit den üblichen EDV Systemen, Vaudis, Elsa, WPS, ETKA_SAP setzen
+
+sicher
+	Mit Ihrem freundlichen und sicheren Auftreten überzeugen Sie bei unseren großen und kleinen Kunden.
+	selbstbewußter und sicherer Auftritt
+
+motivieren
+	Motiviert, belastbar und flexibel
+	zuverlässig, flexibel, motiviert
+	über einen Hauptschulabschluss verfügen, gute Deutschkenntnisse in Wort und Schrift mitbringen, ein kreativer Kopf sind und darüber hinaus noch motiviert und zuverlässig sind, dann freuen wir uns auf Ihre Bewerbung!
+
+empathie
+	Empathie und Anpassungsfähigkeit besitzen
+
+belastbar
+	Zudem sind Sie absolut zuverlässig, belastbar, arbeiten selbstständig und behalten auch in Stresssituationen den Überblick.
+	Motiviert, belastbar und flexibel
+
+kontaktfreude
+	Flexibilität, Kontaktfreude sowie Teamfähigkeit
+
+mobilität
+	Wünschenswert ist jedoch Mobilität.
+
+gepflegt
+	ein gepflegtes Erscheinungsbild wird vorausgesetzt
+	ein gepflegtes Erscheinungsbild wird vorausgesetzt
+	Ein gepflegtes Erscheinungsbild und Freude an der Kundenbetreuung.
+
+verständnis
+	viel Verständnis und Einfühlungsvermögen für ältere & pflegebedürftige Menschen.
+
+brandschutz
+	Kenntnisse in Arbeitsschutz-, Brandschutz- und Umweltschutestimmungen
+
+leistungsbereit
+	sind leistungsbereit und mobil
+
+eigenmotivation
+	* Sie sind zuverlässig, haben ein hohes Maß an Engagement und Eigenmotivation
+
+aktuatorik
+	Kenntnisse in Technischer Optik und hochgenauer Aktuatorik _ Sensorik vorteilhaft
+
+effizient
+	Sie haben eine abgeschlossene Berufsausbildung in diesem oder ähnlichem Beruf und Ihre Arbeitsweise ist effizient und selbständig.
+
+ms-office-produkt
+	Sichere Anwendung der MS-Office-Produkte
+
+kommunikationsfähigkeit_freude
+	Kommunikationsfähigkeit_Freude am Umgang mit Menschen,
+
+kreativität
+	Überdurchschnittliches Maß an Kreativität, Begeisterungsfähigkeit, Eigeninitiative, Einsatzbereitschaft und Selbständigkeit
+
+arbeitsschutz
+	Kenntnisse in Arbeitsschutz-, Brandschutz- und Umweltschutestimmungen
+
+ms-office
+	* einen routinierten Umgang mit MS-Office
+
+verputzen
+	und Verputzen haben.
+
+fetchmail
+	sicherer Umgang mit Linux-Anwendungen wie Samba, squid, fetchmail, sendmail
+
+freundlichkeit
+	Freundlichkeit, Offenheit, Pünktlichkeit, Flexibilität, Zuverlässigkeit,
+	Freundlichkeit, flexibel, Geschicklichkeit
+	Freundlichkeit und gute Umgangsformen
+	Freundlichkeit, zeitliche Flexibilität im Rahmen der Öffnungszeiten (Mo.
+
+word
+	gute Kenntnisse in MS-Office Programmen wie Excel, Word und Powerpoint
+
+trendgespür
+	Sehr sicheres Mode- und Trendgespür im Bereich Fashion und Sportswear in DOB und HAKA sowie deren kommerzielle Umsetzung (Erfahrung im Bereich Outdoorjacken erwünscht).
+
+motor
+	Erfahrung mit Umrichtern und Motoren
+
+engagierte_n
+	Wir stellen uns eine_n engagierte_n und teamorientierte_n Mitarbeiter_in vor, der_die mit viel Spaß und Leidenschaft zum Beruf und verkäuferischem Geschick dem Gast ein "WOW-Erlebnis" in unsererem Hause schenkt.
+
+ausbildung
+	eine abgeschlossene kaufmännische Ausbildung ist von Vorteil, jedoch nicht zwingend erforderlich
+
+positiv einstellung
+	eine positive Einstellung zu dieser Arbeit
+
+motivation_
+	Motivation_ Leistungsbereitschaft
+
+catia v5
+	idealerweise Erfahrung in der Administration der CAD-Systeme CATIA V5 und ICEM Surf
+
+sympathisch
+	eine sympathische Erscheinung
+
+pneumatik
+	gute Kenntnisse Hydraulik und Pneumatik.
+
+mittlere reife
+	mindestens Mittlere Reife oder eine abgeschlossene Ausbildung möglich
+
+pkw-führerschein
+	Ein vorhandener PKW-Führerschein rundet ihr Profil ab.
+
+gut kommunikation
+	Sie sind service- und kundenorientiert und haben eine gute Kommunikations - und Teamfähigkeit.
+
+kaufmännisch ausbildung
+	Alternativ: Ausbildung zum Sozialversicherungsfachangestellten (m_w), verbunden mit starker Affinität zur Informationstechnologie, kaufmännische Ausbildung im IT-Bereich und Berufserfahrung bevorzugt im IT-Umfeld
+
+eigenverantwortung
+	Bereitschaft zum selbstständigen Handeln und zur Eigenverantwortung
+	Eigeninitiative und Eigenverantwortung
+
+aufschließen
+	Sie haben eine kaufmännische Ausbildung, sind freundlich, aufgeschlossen und kontaktfreudig, arbeiten zielorientiert und selbstständig und besitzen darüber hinaus auch ein schnelles Auffassungsvermögen - dann bewerben Sie sich umgehend bei uns.
+
+gut ausdrucksmöglichkeit
+	Gute bis sehr gute Ausdrucksmöglichkeiten
+
+eigenverantwortlich
+	Eigenverantwortliche und zuverlässige Arbeitsweise
+
+gewissenhaft
+	Zuverlässigkeit, selbständiges und gewissenhaftes Arbeiten sowie Teamfähigkeit und Montagebereitschaft setzt der Arbeitgeber voraus.
+
+einsatzfreudig
+	Wenn sie die Realschule mindestens mit der erweiterten mittleren Reife verlassen, einsatzfreudig sind und über eine rasche Auffassungsgabe verfügen, sollten sie ihre Chance nutzen.
+
+mechanisch system
+	ausgezeichnete Kenntnisse in Technischer Mechanik, Strukturmechanik und im Bereich hochpräziser mechanischer Systeme
+
+sendmail
+	sicherer Umgang mit Linux-Anwendungen wie Samba, squid, fetchmail, sendmail
+
+teamgeist
+	haben Sozialkompetenz und Teamgeist
+
+serviceorientierung
+	Gute Kommunikationsfähigkeiten und Serviceorientierung
+
+hängerzug
+	Erfahrung im Bereich Wechselbrücken, Hängerzüge und Sattelschlepper ist erwünscht.
+
+korrekt auftreten
+	Sicheres und korrektes Auftreten
+
+heidenhain
+	Voraussetzung zur Ausübung der Tätigkeit sind Kenntnisse der Steuerung Sinumerik (SIEMENS) oder Heidenhain (____________).
+
+3-jährig ausbildung
+	3-jährige Ausbildung zur_zum Krankenschwester_-pfleger; Medizinische(r)m Fachangestellten (Arzthelfer_in) oder Altenpfleger_in
+
+kundenorientierung
+	Sie verfügen über eine ausgeprägte Kundenorientierung, sind flexibel und bringen idealerweise bereits erste Erfahrungen im Einzelhandel mit.
+
+fahrzeug
+	Führerschein und Fahrzeug zum Erreichen des Arbeitsortes erforderlich
+
+linux-anwendung
+	sicherer Umgang mit Linux-Anwendungen wie Samba, squid, fetchmail, sendmail
+
+belastbarkeit
+	Belastbarkeit, Spaß am Verkauf und die Beratung von Kunden ist uns wichtig
+	Belastbarkeit, Zuverlässigkeit und Freude am Umgang mit Menschen
+
+canalyzer
+	Tools Kenntnisse für INCA und CANalyzer
+
+flexibilität
+	Freundlichkeit, Offenheit, Pünktlichkeit, Flexibilität, Zuverlässigkeit,
+	Flexibilität, Kontaktfreude sowie Teamfähigkeit
+	Organisationsfreude, Einsatz- und Lernbereitschaft, Flexibilität
+	Stresstoleranz, Flexibilität
+	Freundlichkeit, zeitliche Flexibilität im Rahmen der Öffnungszeiten (Mo.
+	Zu Ihren persönlichen Stärken zählen neben Freude am Umgang mit Menschen und Engagement auch Flexibilität und Leistungswille.
+	Teamfähigkeit, Flexibilität und überzeugendes Auftreten
+
+excel
+	gute Kenntnisse in MS-Office Programmen wie Excel, Word und Powerpoint
+
+mathe
+	Gesucht werden Bewerber_innen mit einem Abschluss der 10. Klasse (Mathe und Deutsch mind.
+
+CAD-Zeichner
+	Erfolgreich abgeschlossene Ausbildung als Technischer Zeichner oder CAD-Zeichner
+
+kommunikativ
+	* Sie besitzen gute kommunikative, rhetorische Fähigkeiten und auch die Kompetenz, erklärungsbedürftige Sachverhalte einfach und transparent darzustellen
+
+staplerschein
+	Besitz eines gültigen Staplerscheins
+	Staplerschein, Kranerfahrung sowie Erfahrung mit Stahl sind wünschenswert.
+
+zuverlässig
+	Zudem sind Sie absolut zuverlässig, belastbar, arbeiten selbstständig und behalten auch in Stresssituationen den Überblick.
+	Eigenverantwortliche und zuverlässige Arbeitsweise
+	zuverlässig, flexibel, motiviert
+	* Sie sind zuverlässig, haben ein hohes Maß an Engagement und Eigenmotivation
+	über einen Hauptschulabschluss verfügen, gute Deutschkenntnisse in Wort und Schrift mitbringen, ein kreativer Kopf sind und darüber hinaus noch motiviert und zuverlässig sind, dann freuen wir uns auf Ihre Bewerbung!
+
+abgeschlossen berufsausbildung
+	abgeschlossene Berufsausbildung zum Treibwerkmechaniker (m_w) oder vergleichbare Ausbildung
+	abgeschlossene Berufsausbildung vorzugsweise im technische Bereich
+
+überzeugend
+	Teamfähigkeit, Flexibilität und überzeugendes Auftreten
+
+pünktlichkeit
+	Freundlichkeit, Offenheit, Pünktlichkeit, Flexibilität, Zuverlässigkeit,
+
+card1
+	vorhanden sein sollten Kenntnisse GEOgraf, Auto-CAD, CARD1 sowie die Laufbahnausbildung für den höheren bzw. gehobenen Dienst
+
+mittlerer reife
+	Wenn sie die Realschule mindestens mit der erweiterten mittleren Reife verlassen, einsatzfreudig sind und über eine rasche Auffassungsgabe verfügen, sollten sie ihre Chance nutzen.
+
+engagement
+	Neben Engagement bei der Arbeit hoffen wir auf gute Deutschkenntnisse.
+	* Sie sind zuverlässig, haben ein hohes Maß an Engagement und Eigenmotivation
+	Zu Ihren persönlichen Stärken zählen neben Freude am Umgang mit Menschen und Engagement auch Flexibilität und Leistungswille.
+
+höfliche
+	* Höfliches und professionelles Auftreten
+
+zugewandt
+	ein zugewandtes, freundliches Wesen
+
+führerschein
+	Führerschein und PKW zum Erreichen des Arbeitsortes wünschenswert
+	ein Führerschein werden zwingend gefordert.
+	Führerschein und PKW sind ggf.
+	gerne mit Pkw und Führerschein
+	abgeschlossene Berufsausbildung, Führerschein der Kl.
+	Führerschein und Fahrzeug zum Erreichen des Arbeitsortes erforderlich
+	Führerschein Kl.
+	Der Führerschein B (alt Kl.
+	Führerschein und PKW von Vorteil
+	Sie sind im Besitz des Führerscheins der Kl.
+
+hauptschulabschluss
+	über einen Hauptschulabschluss verfügen, gute Deutschkenntnisse in Wort und Schrift mitbringen, ein kreativer Kopf sind und darüber hinaus noch motiviert und zuverlässig sind, dann freuen wir uns auf Ihre Bewerbung!
+
+auffassungsgabe
+	Wenn sie die Realschule mindestens mit der erweiterten mittleren Reife verlassen, einsatzfreudig sind und über eine rasche Auffassungsgabe verfügen, sollten sie ihre Chance nutzen.
+
+indesign
+	Kenntnisse in QuarkXPress, Photoshop und InDesign
+
+inconso
+	Sehr gute EDV-Kenntnisse (möglichst inconso wms) und gute Englischkenntnisse
+
+leistungswille
+	Zu Ihren persönlichen Stärken zählen neben Freude am Umgang mit Menschen und Engagement auch Flexibilität und Leistungswille.
+
+powerpoint
+	gute Kenntnisse in MS-Office Programmen wie Excel, Word und Powerpoint
+
+kontaktfreudig
+	Sie haben eine kaufmännische Ausbildung, sind freundlich, aufgeschlossen und kontaktfreudig, arbeiten zielorientiert und selbstständig und besitzen darüber hinaus auch ein schnelles Auffassungsvermögen - dann bewerben Sie sich umgehend bei uns.
+
+ausbildung zum_r bäcker_in
+	abgeschlossene Ausbildung zum_r Bäcker_in
+
+nutzfahrzeug
+	gute Kenntnisse im Bereich Kfz und Nutzfahrzeuge
+
+strukturmechanik
+	ausgezeichnete Kenntnisse in Technischer Mechanik, Strukturmechanik und im Bereich hochpräziser mechanischer Systeme
+
+mittler reife
+	Guter Hauptschulabschluss oder Mittlere Reife
+
+photoshop
+	Kenntnisse in QuarkXPress, Photoshop und InDesign
+
+etka_sap
+	Gute Kenntnisse mit den üblichen EDV Systemen, Vaudis, Elsa, WPS, ETKA_SAP setzen
+
+abgeschlossen ausbildung
+	abgeschlossene Ausbildung zum_zur Zimmerer_Zimmerin
+	abgeschlossene Ausbildung zum Qualitätsbeauftragten wünschenswert oder Nachweis gleichwertiger Leistungen
+	abgeschlossene Ausbildung zum_zur Verfahrensmechaniker_in für Kunststoff- und Kautschuktechnik (Fachrichtung Spritzguss) oder vergleichbare Qualifikation
+	Abgeschlossene Ausbildung im Metallbereich
+	mindestens Mittlere Reife oder eine abgeschlossene Ausbildung möglich
+	abgeschlossene Ausbildung zum_r Bäcker_in
+	Sie haben eine abgeschlossene Ausbildung im Gewerk Lüftung_Heizung
+
+geschicklichkeit
+	Freundlichkeit, flexibel, Geschicklichkeit
+
+eigeninitiative
+	Überdurchschnittliches Maß an Kreativität, Begeisterungsfähigkeit, Eigeninitiative, Einsatzbereitschaft und Selbständigkeit
+	Motivation und viel Eigeninitiative
+	Eigeninitiative und Eigenverantwortung
+
+berufsausbildung zur_m medizinisch fachangestellt
+	Eine abgeschlossene Berufsausbildung zur_m Medizinischen Fachangestellten wird vorausgesetzt.
+
+abitur
+	Idealerweise verfügen Sie über das Abitur oder die Fachhochschulreife bzw. einen sehr guten Abschluss einer Real- oder Handelsschule_Wirtschaftsschule.
+
+sicheres
+	Sicheres und korrektes Auftreten
+
+leidenschaft
+	Wir stellen uns eine_n engagierte_n und teamorientierte_n Mitarbeiter_in vor, der_die mit viel Spaß und Leidenschaft zum Beruf und verkäuferischem Geschick dem Gast ein "WOW-Erlebnis" in unsererem Hause schenkt.
+
+verkäuferisch geschick
+	Wir stellen uns eine_n engagierte_n und teamorientierte_n Mitarbeiter_in vor, der_die mit viel Spaß und Leidenschaft zum Beruf und verkäuferischem Geschick dem Gast ein "WOW-Erlebnis" in unsererem Hause schenkt.
+
+wps
+	Gute Kenntnisse mit den üblichen EDV Systemen, Vaudis, Elsa, WPS, ETKA_SAP setzen
+
+squid
+	sicherer Umgang mit Linux-Anwendungen wie Samba, squid, fetchmail, sendmail
+
+selbständigkeit
+	Überdurchschnittliches Maß an Kreativität, Begeisterungsfähigkeit, Eigeninitiative, Einsatzbereitschaft und Selbständigkeit
+
+handwerklich kenntnis
+	* über handwerkliche Kenntnisse verfügen
+
+internet
+	fundierte Kenntnisse in der Bedienung von Computern und Internet
+
+icem surf
+	idealerweise Erfahrung in der Administration der CAD-Systeme CATIA V5 und ICEM Surf
+
+professionell
+	* Höfliches und professionelles Auftreten
+
+motivation
+	Motivation und viel Eigeninitiative
+
+selbständig
+	Zuverlässigkeit, selbständiges und gewissenhaftes Arbeiten sowie Teamfähigkeit und Montagebereitschaft setzt der Arbeitgeber voraus.
+	B (früher 3), guter Umgang mit unseren Kunden und eine selbständige Arbeitsweise.
+	Mehrjährige Berufserfahrung können Sie nachweisen und sind somit selbständiges Arbeiten im Team  gewohnt.
+	Sie haben eine abgeschlossene Berufsausbildung in diesem oder ähnlichem Beruf und Ihre Arbeitsweise ist effizient und selbständig.
+
+kundenorientieren
+	Sie sind service- und kundenorientiert und haben eine gute Kommunikations - und Teamfähigkeit.
+
+cad-system
+	idealerweise Erfahrung in der Administration der CAD-Systeme CATIA V5 und ICEM Surf
+
+fahrerlaubnis
+	Fahrerlaubnis B PKW_Kleinbusse (alt: FS 3) : vorhanden
+
+kesselbau
+	Sie haben langjährige Erfahrung im Rohrleitungsbau idealerweise mit fundierten Kenntnissen im Anlagenbau und Kesselbau.
+
+kassensystem
+	Kenntnisse des Kassensystems "______" wünschenswert
+	Betriebswirtschaftliche Kenntnisse, Erfahrungen mit PC- und Kassensystemen gehören zu Ihrem Tagesgeschäft.
+
+zielorientieren
+	Sie haben eine kaufmännische Ausbildung, sind freundlich, aufgeschlossen und kontaktfreudig, arbeiten zielorientiert und selbstständig und besitzen darüber hinaus auch ein schnelles Auffassungsvermögen - dann bewerben Sie sich umgehend bei uns.
+
+vaudis
+	Gute Kenntnisse mit den üblichen EDV Systemen, Vaudis, Elsa, WPS, ETKA_SAP setzen
+
+selbstbewußt
+	selbstbewußter und sicherer Auftritt
+
+zuverlässigkeit
+	Freundlichkeit, Offenheit, Pünktlichkeit, Flexibilität, Zuverlässigkeit,
+	Zu Ihren persönlichen Stärken gehören Zuverlässigkeit und Teamfähigkeit.
+	Zuverlässigkeit und Teamfähigkeit
+	Zuverlässigkeit, selbständiges und gewissenhaftes Arbeiten sowie Teamfähigkeit und Montagebereitschaft setzt der Arbeitgeber voraus.
+	Teamfähigkeit, Zuverlässigkeit und Hilfsbereitschaft
+	Zuverlässigkeit.
+	Zuverlässigkeit, Teamfähigkeit und Kommunikationsstärke
+	Belastbarkeit, Zuverlässigkeit und Freude am Umgang mit Menschen
+
+umweltschutestimmung
+	Kenntnisse in Arbeitsschutz-, Brandschutz- und Umweltschutestimmungen
+
+deutsch
+	Deutsch in Wort und Schrift
+	gute Deutsch- und Englischkenntnisse
+	deutsche Sprache in Wort und Schrift
+	* Sie verfügen über einen ausgeprägten deutschen Sprachschatz
+	Gesucht werden Bewerber_innen mit einem Abschluss der 10. Klasse (Mathe und Deutsch mind.
+
+linux
+	gute Kenntnisse im Bereich Shell-Programmierung (Linux, Windows)
+
+edv system
+	Gute Kenntnisse mit den üblichen EDV Systemen, Vaudis, Elsa, WPS, ETKA_SAP setzen
+
+samba
+	sicherer Umgang mit Linux-Anwendungen wie Samba, squid, fetchmail, sendmail
+
+pkw
+	Führerschein und PKW zum Erreichen des Arbeitsortes wünschenswert
+	Führerschein und PKW sind ggf.
+	gerne mit Pkw und Führerschein
+	Führerschein und PKW von Vorteil
+
+stresstoleranz
+	Stresstoleranz, Flexibilität
+
+selbstständig
+	Sie haben eine kaufmännische Ausbildung, sind freundlich, aufgeschlossen und kontaktfreudig, arbeiten zielorientiert und selbstständig und besitzen darüber hinaus auch ein schnelles Auffassungsvermögen - dann bewerben Sie sich umgehend bei uns.
+	Zudem sind Sie absolut zuverlässig, belastbar, arbeiten selbstständig und behalten auch in Stresssituationen den Überblick.
+	Bereitschaft zum selbstständigen Handeln und zur Eigenverantwortung
+
+freundlich
+	Sie haben eine kaufmännische Ausbildung, sind freundlich, aufgeschlossen und kontaktfreudig, arbeiten zielorientiert und selbstständig und besitzen darüber hinaus auch ein schnelles Auffassungsvermögen - dann bewerben Sie sich umgehend bei uns.
+	ein freundlicher Umgang mit unseren Kunden sowie Teamfähigkeit sind uns wichtig.
+	Mit Ihrem freundlichen und sicheren Auftreten überzeugen Sie bei unseren großen und kleinen Kunden.
+	ein zugewandtes, freundliches Wesen
+
+fachhochschulreife
+	Idealerweise verfügen Sie über das Abitur oder die Fachhochschulreife bzw. einen sehr guten Abschluss einer Real- oder Handelsschule_Wirtschaftsschule.
+
+organisationsfreude
+	Organisationsfreude, Einsatz- und Lernbereitschaft, Flexibilität
+
+teamorientiert
+	Teamorientiertes Denken und Handeln
+
+windows
+	gute Kenntnisse im Bereich Shell-Programmierung (Linux, Windows)
+
+kommunikationsstärke
+	Zuverlässigkeit, Teamfähigkeit und Kommunikationsstärke
+
+möbeltischlerei
+	Erahrung in der Bau- und Möbeltischlerei
+
+zykle drehmaschine
+	Erfahrung mit der Bedienung der Zyklen- Drehmaschinen
+
+pc
+	Betriebswirtschaftliche Kenntnisse, Erfahrungen mit PC- und Kassensystemen gehören zu Ihrem Tagesgeschäft.
+
+offenheit
+	Freundlichkeit, Offenheit, Pünktlichkeit, Flexibilität, Zuverlässigkeit,
+
+plotter
+	Erfahrung in der Bedienung von AutoCAD-PC und Plotter
+
+siemens
+	Voraussetzung zur Ausübung der Tätigkeit sind Kenntnisse der Steuerung Sinumerik (SIEMENS) oder Heidenhain (____________).
+
+teamorientierte
+	Wir stellen uns eine_n engagierte_n und teamorientierte_n Mitarbeiter_in vor, der_die mit viel Spaß und Leidenschaft zum Beruf und verkäuferischem Geschick dem Gast ein "WOW-Erlebnis" in unsererem Hause schenkt.
+
+englisch
+	Englisch in Wort und Schrift
+	Englisch in Wort und Schrift
+	Sehr gutes Englisch in Wort und Schrift
+
+bogenmontage
+	gerne auch Kenntnisse im Digitaldruck und Bogenmontage
+
+kreativ
+	über einen Hauptschulabschluss verfügen, gute Deutschkenntnisse in Wort und Schrift mitbringen, ein kreativer Kopf sind und darüber hinaus noch motiviert und zuverlässig sind, dann freuen wir uns auf Ihre Bewerbung!
+
+__________________________________________________________________________________________
+TRUE-POSITIVES: 
+
+gut umgangsform
+	* gute Umgangsformen
+
+berufsausbildung zu treibwerkmechaniker
+	abgeschlossene Berufsausbildung zum Treibwerkmechaniker (m_w) oder vergleichbare Ausbildung
+
+abschluss als diplom-sozialpädagoge_in
+	Für die Besetzung suchen wir eine pädagogische Fachkraft mit staatlicher Anerkennung, oder dem Abschluss als Diplom-Sozialpädagoge_in.
+
+umgang mit erfindung
+	Erfahrung im Umgang mit Erfindungen und Patenten vorteilhaft
+
+anpassungsfähigkeit
+	Empathie und Anpassungsfähigkeit besitzen
+	Anpassungsfähigkeit
+
+gut englischkenntnis
+	Sehr gute EDV-Kenntnisse (möglichst inconso wms) und gute Englischkenntnisse
+	gute Englischkenntnisse in Word und Schrift
+
+kaufmännisch ausbildung
+	Sie haben eine kaufmännische Ausbildung, sind freundlich, aufgeschlossen und kontaktfreudig, arbeiten zielorientiert und selbstständig und besitzen darüber hinaus auch ein schnelles Auffassungsvermögen - dann bewerben Sie sich umgehend bei uns.
+
+ausbildung als immobilienkaufmann_-frau
+	* eine abgeschlossene Ausbildung als Immobilienkaufmann_-frau
+
+lernbereitschaft
+	Organisationsfreude, Einsatz- und Lernbereitschaft, Flexibilität
+
+verantwortungsbewussen
+	Bewerber_innen sollten verantwortungsbewusst, zuverlässig und freundlich sein
+
+erfahrung in einzelhandel
+	Sie verfügen über eine ausgeprägte Kundenorientierung, sind flexibel und bringen idealerweise bereits erste Erfahrungen im Einzelhandel mit.
+
+erfahrung in der projektarbeit
+	Erfahrung in der Projektarbeit und mit der Arbeit in Projektteams
+
+kommunikation
+	Kommunikation
+
+ausbildung in gewerk lüftung_heizung
+	Sie haben eine abgeschlossene Ausbildung im Gewerk Lüftung_Heizung
+
+ausbildung als erzieher_in
+	idealerweise verfügen Sie über eine abgeschlossene Ausbildung als Erzieher_in
+
+ausbildung in der hotellerie oder gastronomie
+	Abgeschlossene Ausbildung in der Hotellerie oder Gastronomie
+
+ausbildung in it-bereich und berufserfahrung
+	Alternativ: Ausbildung zum Sozialversicherungsfachangestellten (m_w), verbunden mit starker Affinität zur Informationstechnologie, kaufmännische Ausbildung im IT-Bereich und Berufserfahrung bevorzugt im IT-Umfeld
+
+fremdsprachenkenntnis von vorteil
+	Fremdsprachenkenntnisse von Vorteil
+
+flexibilität
+	Flexibilität
+	Flexibilität
+	Flexibilität
+
+erfahrung aus der verkauf
+	Wenn Sie über gute Kenntnisse aus dem textilen Bereich, sowie über Erfahrungen aus dem Verkauf verfügen, freuen wir uns sehr über Ihre Bewerbung.
+
+kenntnis aus der textil bereich
+	Wenn Sie über gute Kenntnisse aus dem textilen Bereich, sowie über Erfahrungen aus dem Verkauf verfügen, freuen wir uns sehr über Ihre Bewerbung.
+
+gesundheitszeugnis
+	Gesundheitszeugnis
+
+kundenfreundlichkeit
+	Kundenfreundlichkeit
+
+ausbildung als technisch zeichner
+	Erfolgreich abgeschlossene Ausbildung als Technischer Zeichner oder CAD-Zeichner
+
+betriebswirtschaftlich kenntnis
+	Betriebswirtschaftliche Kenntnisse, Erfahrungen mit PC- und Kassensystemen gehören zu Ihrem Tagesgeschäft.
+
+verkaufserfahrung
+	Verkaufserfahrung erwünscht
+
+pkw-fs
+	* PKW-FS ist zwingend erforderlich
+
+berufserfahrung in servicebereich
+	Sie verfügen über einschlägige Berufserfahrung im Servicebereich, gerne auch gewerkeübergreifend
+
+kommunikationsfähigkeit
+	überzeugen durch Kommunikationsfähigkeit
+
+erfahrung in drehtechnik
+	Erfahrung in Drehtechnik
+
+kenntnis in anlagenbau
+	Sie haben langjährige Erfahrung im Rohrleitungsbau idealerweise mit fundierten Kenntnissen im Anlagenbau und Kesselbau.
+
+kenntnis geograf
+	vorhanden sein sollten Kenntnisse GEOgraf, Auto-CAD, CARD1 sowie die Laufbahnausbildung für den höheren bzw. gehobenen Dienst
+
+mehrjährig berufserfahrung
+	Sie verfügen über eine abgeschlossene Berufsausbildung als CNC-Dreher (m_w) mit mehrjähriger Berufserfahrung.
+	mehrjährige Berufserfahrung, insbesondere in der Planung und Durchführung von Projekten
+
+ausbildung zu qualitätsbeauftragter
+	abgeschlossene Ausbildung zum Qualitätsbeauftragten wünschenswert oder Nachweis gleichwertiger Leistungen
+
+ausbildung in it-bereich
+	Alternativ: Ausbildung zum Sozialversicherungsfachangestellten (m_w), verbunden mit starker Affinität zur Informationstechnologie, kaufmännische Ausbildung im IT-Bereich und Berufserfahrung bevorzugt im IT-Umfeld
+
+gewandt
+	sicheres, gewandtes und freundliches Auftreten
+
+berufserfahrung in der genannt altersklasse
+	Berufserfahrung in der genannten Altersklasse ist wünschenswert
+
+selbstständig qualitätsbewußt arbeit
+	selbstständiges qualitätsbewußtes Arbeiten
+
+gut abschluss
+	Sehr guter Abschluss als Dipl.-Ing.
+
+ausbildung als facharbeiter
+	Abgeschlossene Ausbildung als Facharbeiter; gerne auch Techniker
+
+gut msr-kenntnis
+	Gute MSR-Kenntnisse sind von Vorteil
+
+kenntnis in ms-office
+	Gute Kenntnisse im MS-Office sowie in gängigen Warenwirtschaftssystemen
+
+leitungserfahrung in kita-bereich
+	Wünschenswert sind darüber hinaus bereits erworbene Leitungserfahrung im Kita-Bereich und eine der Funktion angemessene Qualifikation (Leiter-_Leiterinnenlehrgang o. ä.).
+
+erfahrung in elektromaschinenbau
+	Erfahrung im Elektromaschinenbau
+
+einfühlungsvermögen
+	soziale Kompetenz und Einfühlungsvermögen
+	viel Verständnis und Einfühlungsvermögen für ältere & pflegebedürftige Menschen.
+
+wärmedämmung
+	Wärmedämmung
+
+ausbildung in ein it-beruf
+	erfolgreich abgeschlossene Ausbildung in einem IT-Beruf, 
+
+praktisch berufserfahrung
+	praktische Berufserfahrung im Bereich Qualitätsmanagement wünschenswert
+
+kenntnis in technisch optik
+	Kenntnisse in Technischer Optik und hochgenauer Aktuatorik _ Sensorik vorteilhaft
+
+patent
+	Erfahrung im Umgang mit Erfindungen und Patenten vorteilhaft
+
+gut kommunikationsfähigkeit
+	Sehr gute Kommunikationsfähigkeiten, Teamfähigkeit
+	Gute Kommunikationsfähigkeiten und Serviceorientierung
+
+mittlerer reife
+	mittlere Reife
+
+mehrjährige berufserfahrung
+	Mehrjährige Berufserfahrung können Sie nachweisen und sind somit selbständiges Arbeiten im Team  gewohnt.
+
+begeisterungsfähigkeit
+	Überdurchschnittliches Maß an Kreativität, Begeisterungsfähigkeit, Eigeninitiative, Einsatzbereitschaft und Selbständigkeit
+
+deutsch sprachkenntnis
+	gute deutsche Sprachkenntnisse sowohl schriftlich als auch mündlich
+
+qualifizierend hauptschulabschluss
+	Sie haben mindestens einen qualifizierenden Hauptschulabschluss, dann freuen wir uns auf Ihre Bewerbung.
+	Qualifizierender Hauptschulabschluss
+
+einschlägig berufserfahrung
+	Sie verfügen über einschlägige Berufserfahrung im Servicebereich, gerne auch gewerkeübergreifend
+	Erwartet wird eine einschlägige Berufserfahrung im Kita-Bereich.
+	Einschlägige Berufserfahrung im Bereich Prozessmanagement ist wünschenswert
+	gerne mit einschlägiger Berufserfahrung, aber nicht zwingend
+	Abgeschlossenes (Fach-)Hochschulstudium Wirtschaftsinformatik oder Abschluss als AOK Betriebswirt (m_w) bzw. eine vergleichbare Qualifikation oder mehrjährige einschlägige Berufserfahrung
+	Sie verfügen über einschlägige Berufserfahrung und beherrschen alle berufsüblichen Tätigkeiten.
+	Möglichst mit einschlägiger Berufserfahrung, wir geben aber auch jungen Fachkräften am Beginn Ihrer Laufbahn eine Chance
+
+verkaufserfahrung in gehoben einzelhandel
+	Verkaufserfahrung im gehobenen Einzelhandel
+
+organisationsvermögen
+	Problemlösungspotential, Organisationsvermögen sowie Reisebereitschaft
+
+berufsausbildung als kinderpfleger_in
+	Die Bewerber_innen müssen über eine abgeschlossene Berufsausbildung als Kinderpfleger_in oder Krankenpflegehelfer_in verfügen.
+
+staplerschein
+	Staplerschein wünschenswert
+
+gut englisch-kenntnis
+	Gute Englisch-Kenntnisse in Wort und Schrift
+
+ausbildung zum_zur zimmerer_zimmerin
+	abgeschlossene Ausbildung zum_zur Zimmerer_Zimmerin
+
+röntgenschein
+	Röntgenschein ist zwingend erforderlich.
+
+kenntnis aus der karosseriebereich
+	Kenntnisse aus dem Karosseriebereich müssen vorhanden sein
+
+ausbildung zu sozialversicherungsfachangestellt
+	Alternativ: Ausbildung zum Sozialversicherungsfachangestellten (m_w), verbunden mit starker Affinität zur Informationstechnologie, kaufmännische Ausbildung im IT-Bereich und Berufserfahrung bevorzugt im IT-Umfeld
+
+sattelschlepper
+	Erfahrung im Bereich Wechselbrücken, Hängerzüge und Sattelschlepper ist erwünscht.
+
+sicher
+	sicheres, gewandtes und freundliches Auftreten
+
+abgeschlossener modedesignstudium
+	Abgeschlossenes Modedesignstudium
+
+schnell auffassungsvermögen
+	Sie haben eine kaufmännische Ausbildung, sind freundlich, aufgeschlossen und kontaktfreudig, arbeiten zielorientiert und selbstständig und besitzen darüber hinaus auch ein schnelles Auffassungsvermögen - dann bewerben Sie sich umgehend bei uns.
+
+gut pc-kenntnis
+	Sehr gute PC-Kenntnisse
+
+bedienung von cnc-drehmaschine
+	Erfahrung mit der Bedienung von CNC-Drehmaschinen
+
+schichtbereitschaft
+	Schichtbereitschaft
+	Volle Schichtbereitschaft, auch Nachts und am Wochenende
+	Schichtbereitschaft (Früh+Spät)
+	Schichtbereitschaft (3-Schicht)
+
+ms-office kenntnis
+	Gute MS-Office Kenntnisse
+
+abgeschlossen ausbildung
+	* eine abgeschlossene Ausbildung als Immobilienkaufmann_-frau
+	Abgeschlossene Ausbildung als Pflegefachkraft oder eines gleichwertigen Abschlusses
+	Abgeschlossene Ausbildung als Facharbeiter; gerne auch Techniker
+	* gut abgeschlossene Ausbildung als Fachverkäufer_in im Lebensmittelhandwerk (Fleischerei)
+	Erfolgreich abgeschlossene Ausbildung als Technischer Zeichner oder CAD-Zeichner
+	idealerweise verfügen Sie über eine abgeschlossene Ausbildung als Erzieher_in
+	Abgeschlossene Ausbildung in der Hotellerie oder Gastronomie
+	erfolgreich abgeschlossene Ausbildung in einem IT-Beruf, 
+	Zwingend erforderlich ist eine abgeschlossene Ausbildung als Schlosser_in_ (Anlagenmechaniker_in, betriebsmechaniker_in).
+
+sozialkompetenz
+	haben Sozialkompetenz und Teamgeist
+
+langjährig berufserfahrung
+	abgeschlossene Berufsausbildung, idealerweise als Fachkraft für Lagerlogistik oder enstprechende, langjährige Berufserfahrung
+
+deutschkenntnis in wort
+	über einen Hauptschulabschluss verfügen, gute Deutschkenntnisse in Wort und Schrift mitbringen, ein kreativer Kopf sind und darüber hinaus noch motiviert und zuverlässig sind, dann freuen wir uns auf Ihre Bewerbung!
+
+selbständig arbeit
+	Selbständiges Arbeiten
+
+abgeschlossen berufsausbildung
+	Sie verfügen über eine abgeschlossene Berufsausbildung als CNC-Dreher (m_w) mit mehrjähriger Berufserfahrung.
+	mit abgeschlossener Berufsausbildung
+	Die Bewerber_innen müssen über eine abgeschlossene Berufsausbildung als Kinderpfleger_in oder Krankenpflegehelfer_in verfügen.
+	abgeschlossene Berufsausbildung
+	Erforderlich ist eine abgeschlossene Berufsausbildung als staatl.
+	eine abgeschlossene Berufsausbildung
+	abgeschlossene Berufsausbildung, idealerweise als Fachkraft für Lagerlogistik oder enstprechende, langjährige Berufserfahrung
+	abgeschlossene Berufsausbildung, Führerschein der Kl.
+	Sie haben eine abgeschlossene Berufsausbildung in diesem oder ähnlichem Beruf und Ihre Arbeitsweise ist effizient und selbständig.
+	Eine abgeschlossene Berufsausbildung zur_m Medizinischen Fachangestellten wird vorausgesetzt.
+
+fundiert fachkenntnis
+	fundierte Fachkenntnisse in den speziellen Aufgabenstellungen der Energiewirtschaft rund um die Zähl- und Messtechnik
+
+sap-kenntnis von vorteil
+	SAP-Kenntnisse von Vorteil
+
+fach-)hochschulstudium wirtschaftsinformatik
+	Abgeschlossenes (Fach-)Hochschulstudium Wirtschaftsinformatik oder Abschluss als AOK Betriebswirt (m_w) bzw. eine vergleichbare Qualifikation oder mehrjährige einschlägige Berufserfahrung
+
+außenarbeit
+	Außenarbeiten
+
+sozial kompetenz
+	soziale Kompetenz und Einfühlungsvermögen
+
+sorgfalt
+	Sorgfalt
+
+kenntnis in refa-methodik
+	Kenntnisse in REFA-Methodik sind wünschenswert
+
+abschluss als aok betriebswirt
+	Abgeschlossenes (Fach-)Hochschulstudium Wirtschaftsinformatik oder Abschluss als AOK Betriebswirt (m_w) bzw. eine vergleichbare Qualifikation oder mehrjährige einschlägige Berufserfahrung
+
+zuverlässig
+	* belastbar, zuverlässig und flexibel einsetar sein
+	Bewerber_innen sollten verantwortungsbewusst, zuverlässig und freundlich sein
+	Sie sind teamfähig, flexibel und zuverlässig
+
+berufsausbildung als cnc-dreher
+	Sie verfügen über eine abgeschlossene Berufsausbildung als CNC-Dreher (m_w) mit mehrjähriger Berufserfahrung.
+
+kenntnis der steuerung sinumerik
+	Voraussetzung zur Ausübung der Tätigkeit sind Kenntnisse der Steuerung Sinumerik (SIEMENS) oder Heidenhain (____________).
+
+berufserfahrung
+	Alternativ: Ausbildung zum Sozialversicherungsfachangestellten (m_w), verbunden mit starker Affinität zur Informationstechnologie, kaufmännische Ausbildung im IT-Bereich und Berufserfahrung bevorzugt im IT-Umfeld
+	Berufserfahrungen
+	* Berufserfahrung wäre wünschenswert
+	Berufserfahrung
+	* Berufserfahrung in der Hausverwaltung von A-Z
+
+selbständig arbeitsweise
+	selbständige Arbeitsweise
+
+teamarbeit_teamfähigkeit
+	Teamarbeit_Teamfähigkeit
+
+erfahrung mit umrichter
+	Erfahrung mit Umrichtern und Motoren
+
+alleinverantwortlich arbeit
+	alleinverantwortliches Arbeiten
+
+gut hauptschulabschluss
+	Guter Hauptschulabschluss oder Mittlere Reife
+
+kenntnis in der ms-office-programm
+	* Sie haben gute Kenntnisse in den MS-Office-Programmen
+
+montagebereitschaft
+	Zuverlässigkeit, selbständiges und gewissenhaftes Arbeiten sowie Teamfähigkeit und Montagebereitschaft setzt der Arbeitgeber voraus.
+	Montagebereitschaft (mehrtägige bundesweite Montage mit Wochenendheimkehr) und
+
+umgang mit chemikalie
+	Erfahrung im Umgang mit Chemikalien
+
+kenntnis für inca
+	Tools Kenntnisse für INCA und CANalyzer
+
+studium der wirtschaftsingenieurwesen
+	Studium des Wirtschaftsingenieurwesens, Betriebswirtschaft oder Logistik
+
+berufserfahrung in bereich service
+	2 bis 3 Jahre Berufserfahrung im Bereich Service
+
+berufserfahrung in bereich qualitätsmanagement
+	praktische Berufserfahrung im Bereich Qualitätsmanagement wünschenswert
+
+kenntnis in digitaldruck
+	gerne auch Kenntnisse im Digitaldruck und Bogenmontage
+
+freundlich
+	Bewerber_innen sollten verantwortungsbewusst, zuverlässig und freundlich sein
+	sicheres, gewandtes und freundliches Auftreten
+
+handwerklich geschick
+	Handwerkliches Geschick
+
+kenntnis in technisch mechanik
+	ausgezeichnete Kenntnisse in Technischer Mechanik, Strukturmechanik und im Bereich hochpräziser mechanischer Systeme
+
+ausbildung zur_zum krankenschwester_-pfleger
+	3-jährige Ausbildung zur_zum Krankenschwester_-pfleger; Medizinische(r)m Fachangestellten (Arzthelfer_in) oder Altenpfleger_in
+
+englisch-kenntnis in wort
+	Gute Englisch-Kenntnisse in Wort und Schrift
+
+kommunikativ
+	Kommunikativ
+
+erfahrung mit stahl
+	Staplerschein, Kranerfahrung sowie Erfahrung mit Stahl sind wünschenswert.
+
+kenntnis in bereich shell-programmierung
+	gute Kenntnisse im Bereich Shell-Programmierung (Linux, Windows)
+
+gut realschulabschluss
+	Guter Realschulabschluss mit Berufskolleg oder gleichwertiger Abschluss
+
+französisch sprachkenntnis
+	Französische Sprachkenntnisse wären von Vorteil
+
+kenntnis über pv-anlage
+	Kenntnisse über PV-Anlagen gewünscht, aber nicht Voraussetzung.
+
+pc grundkenntnis
+	PC- Grundkenntnisse
+
+flexibel
+	* belastbar, zuverlässig und flexibel einsetar sein
+	Sie sind teamfähig, flexibel und zuverlässig
+
+erworben leitungserfahrung
+	Wünschenswert sind darüber hinaus bereits erworbene Leitungserfahrung im Kita-Bereich und eine der Funktion angemessene Qualifikation (Leiter-_Leiterinnenlehrgang o. ä.).
+
+ausbildung als schlosser_i
+	Zwingend erforderlich ist eine abgeschlossene Ausbildung als Schlosser_in_ (Anlagenmechaniker_in, betriebsmechaniker_in).
+
+teamfähigkeit
+	Teamfähigkeit
+	Zu Ihren persönlichen Stärken gehören Zuverlässigkeit und Teamfähigkeit.
+	ein freundlicher Umgang mit unseren Kunden sowie Teamfähigkeit sind uns wichtig.
+	Teamfähigkeit
+	Zuverlässigkeit und Teamfähigkeit
+	Flexibilität, Kontaktfreude sowie Teamfähigkeit
+	Zuverlässigkeit, selbständiges und gewissenhaftes Arbeiten sowie Teamfähigkeit und Montagebereitschaft setzt der Arbeitgeber voraus.
+	Sie sind service- und kundenorientiert und haben eine gute Kommunikations - und Teamfähigkeit.
+	Teamfähigkeit, Zuverlässigkeit und Hilfsbereitschaft
+	Sehr gute Kommunikationsfähigkeiten, Teamfähigkeit
+	Teamfähigkeit
+	Zuverlässigkeit, Teamfähigkeit und Kommunikationsstärke
+	Teamfähigkeit
+	Teamfähigkeit, Flexibilität und überzeugendes Auftreten
+	Teamfähigkeit
+
+bedienung von autocad-pc
+	Erfahrung in der Bedienung von AutoCAD-PC und Plotter
+
+reisebereitschaft
+	Problemlösungspotential, Organisationsvermögen sowie Reisebereitschaft
+
+berufserfahrung in kita-bereich
+	Erwartet wird eine einschlägige Berufserfahrung im Kita-Bereich.
+
+teamfähig
+	Sie sind teamfähig, flexibel und zuverlässig
+
+erfahrung mit transporeon
+	Erfahrung mit Transporeon wünschenswert
+
+erfahrung in bereich outdoorjacken
+	Sehr sicheres Mode- und Trendgespür im Bereich Fashion und Sportswear in DOB und HAKA sowie deren kommerzielle Umsetzung (Erfahrung im Bereich Outdoorjacken erwünscht).
+
+gut deutschkenntnis
+	Neben Engagement bei der Arbeit hoffen wir auf gute Deutschkenntnisse.
+	gute Deutschkenntnisse
+	über einen Hauptschulabschluss verfügen, gute Deutschkenntnisse in Wort und Schrift mitbringen, ein kreativer Kopf sind und darüber hinaus noch motiviert und zuverlässig sind, dann freuen wir uns auf Ihre Bewerbung!
+	Gute Deutschkenntnisse in Wort u. Schrift
+
+programmierkenntnis
+	Als Einrichter_in besitzen Sie Programmierkenntnisse _______ ____.
+
+kundenorientierung
+	Kundenorientierung
+
+sap kenntnis
+	SAP Kenntnisse wünschenswert
+
+englischkenntnis in word
+	gute Englischkenntnisse in Word und Schrift
+
+führerschein
+	Führerschein erforderlich
+
+analytisch denken
+	analytisches Denken
+
+englischkenntnis
+	gute Deutsch- und Englischkenntnisse
+
+erfahrung in bereich wechselbrück
+	Erfahrung im Bereich Wechselbrücken, Hängerzüge und Sattelschlepper ist erwünscht.
+
+jahr berufserfahrung
+	2 bis 3 Jahre Berufserfahrung im Bereich Service
+
+kenntnis in ms-office programm
+	gute Kenntnisse in MS-Office Programmen wie Excel, Word und Powerpoint
+
+berufsausbildung als kinderpfleger_in oder krankenpflegehelfer_in
+	Die Bewerber_innen müssen über eine abgeschlossene Berufsausbildung als Kinderpfleger_in oder Krankenpflegehelfer_in verfügen.
+
+belastbar
+	* belastbar, zuverlässig und flexibel einsetar sein
+
+ausbildung zu speditionskaufmann_-frau
+	Ausbildung zum Speditionskaufmann_-frau, Fachkraft für Lagerwirtschaft (m_w) oder entsprechende Berufserfahrung
+
+pünktlichkeit
+	Pünktlichkeit
+
+gut edv-kenntnis
+	Gute EDV-Kenntnisse werden erwartet.
+	Sehr gute EDV-Kenntnisse (möglichst inconso wms) und gute Englischkenntnisse
+
+abschluss als dipl.-ing
+	Sehr guter Abschluss als Dipl.-Ing.
+
+ausbildung als fachverkäufer_in
+	* gut abgeschlossene Ausbildung als Fachverkäufer_in im Lebensmittelhandwerk (Fleischerei)
+
+rhetorisch fähigkeit
+	* Sie besitzen gute kommunikative, rhetorische Fähigkeiten und auch die Kompetenz, erklärungsbedürftige Sachverhalte einfach und transparent darzustellen
+
+ausbildung in metallbereich
+	Abgeschlossene Ausbildung im Metallbereich
+
+hilfsbereitschaft
+	Teamfähigkeit, Zuverlässigkeit und Hilfsbereitschaft
+
+erfahrung in der wärmedämmung
+	Erfahrung in der Wärmedämmung ist von Vorteil, jedoch nicht zwingend erforderlich.
+
+verantwortungsbewusstsein
+	Verantwortungsbewusstsein
+
+ausbildung zum_zur verfahrensmechaniker_in
+	abgeschlossene Ausbildung zum_zur Verfahrensmechaniker_in für Kunststoff- und Kautschuktechnik (Fachrichtung Spritzguss) oder vergleichbare Qualifikation
+
+zuverlässigkeit
+	Zuverlässigkeit
+	Zuverlässigkeit
+	Zuverlässigkeit
+	Zuverlässigkeit
+
+ausbildung als pflegefachkraft
+	Abgeschlossene Ausbildung als Pflegefachkraft oder eines gleichwertigen Abschlusses
+
+abschluss der 10 klasse
+	Gesucht werden Bewerber_innen mit einem Abschluss der 10. Klasse (Mathe und Deutsch mind.
+
+berufserfahrung in bereich prozessmanagement
+	Einschlägige Berufserfahrung im Bereich Prozessmanagement ist wünschenswert
+
+gepflegt erscheinungsbild
+	gepflegtes Erscheinungsbild
+
+adr-schein
+	Ein ADR-Schein wäre von Vorteil.
+
+kenntnis in quarkxpress
+	Kenntnisse in QuarkXPress, Photoshop und InDesign
+
+entsprechend berufserfahrung
+	Ausbildung zum Speditionskaufmann_-frau, Fachkraft für Lagerwirtschaft (m_w) oder entsprechende Berufserfahrung
+
+verkaufserfahrung von vorteil
+	Verkaufserfahrung von Vorteil
+
+erster berufserfahrung
+	* erste Berufserfahrungen sind zwingend notwendig
+
+ausbildung in der hotellerie
+	Abgeschlossene Ausbildung in der Hotellerie oder Gastronomie
+
+kenntnis hydraulik
+	gute Kenntnisse Hydraulik und Pneumatik.
+
+kenntnis in corel draw
+	Sehr gute Kenntnisse in Corel Draw
+
+einsatzbereitschaft
+	Überdurchschnittliches Maß an Kreativität, Begeisterungsfähigkeit, Eigeninitiative, Einsatzbereitschaft und Selbständigkeit
+	Einsatzbereitschaft
+
+erfahrung in rohrleitungsbau
+	Sie haben langjährige Erfahrung im Rohrleitungsbau idealerweise mit fundierten Kenntnissen im Anlagenbau und Kesselbau.
+
+belastbarkeit
+	Belastbarkeit
+
+kranerfahrung
+	Staplerschein, Kranerfahrung sowie Erfahrung mit Stahl sind wünschenswert.
+
+höhentauglichkeit
+	Höhentauglichkeit erforderlich
+
+sensorik
+	Kenntnisse in Technischer Optik und hochgenauer Aktuatorik _ Sensorik vorteilhaft
+
+bereich der sp-steueranlage s7
+	Fundierte Kenntnisse im Bereich der SP-Steueranlagen S7 sind wünschenswert
+
+kenntnis b49 katastervermessung
+	Kenntnisse B49 Katastervermessung zwingend erforderlich
+
+kenntnis in bereich kfz
+	gute Kenntnisse im Bereich Kfz und Nutzfahrzeuge
+
+umgang mit kunde
+	Erfahrung im Umgang mit Kunden und Lieferanten (intern_extern)
+	Erfahrung im Umgang mit Kunden
+
+bedienung von computer
+	fundierte Kenntnisse in der Bedienung von Computern und Internet
+
+erfahrung mit der software domus
+	* vorzugsweise Erfahrung mit der Software Domus und
+
+umgang mit fernostproduktion
+	Erfahrung im Umgang mit Fernostproduktion.
+
+motivatio leistungsbereitschaft
+	Motivation_ Leistungsbereitschaft
+
