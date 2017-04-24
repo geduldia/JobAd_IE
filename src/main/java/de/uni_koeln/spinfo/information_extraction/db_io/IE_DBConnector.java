@@ -44,8 +44,8 @@ public class IE_DBConnector {
 		Class.forName("org.sqlite.JDBC");
 		connection = DriverManager.getConnection("jdbc:sqlite:" + dbFilePath);
 		String url = connection.getMetaData().getURL();
-		System.out.println(
-				"Database " + url.substring(url.lastIndexOf("/") + 1, url.lastIndexOf(".db")) + " successfully opened");
+//		System.out.println(
+//				"Database " + url.substring(url.lastIndexOf("/") + 1, url.lastIndexOf(".db")) + " successfully opened");
 		return connection;
 	}
 

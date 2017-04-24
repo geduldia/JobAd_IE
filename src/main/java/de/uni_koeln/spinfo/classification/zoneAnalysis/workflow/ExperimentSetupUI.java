@@ -37,7 +37,7 @@ public class ExperimentSetupUI {
 		classifiers.add(new ZoneKNNClassifier());
 		classifiers.add(new ZoneNaiveBayesClassifier());
 		classifiers.add(new ZoneRocchioClassifier());
-		classifiers.add(new SVMClassifier());
+		//classifiers.add(new SVMClassifier());
 
 		quantifiers.add(new LogLikeliHoodFeatureQuantifier());
 		quantifiers.add(new AbsoluteFrequencyFeatureQuantifier());
@@ -400,7 +400,7 @@ public class ExperimentSetupUI {
 			System.out.println("press '1' for KNNClassifier");
 			System.out.println("press '2' for BayesClassifier");
 			System.out.println("press '3' for RocchioClassifier");
-			System.out.println("press '4' for SVM-Classifier");
+			//System.out.println("press '4' for SVM-Classifier");
 			String answer = in.readLine();
 			int classifierID = -1;
 			try {
