@@ -126,12 +126,18 @@ public class ClassifyJobAdsIntoParagraphs {
 							+ outputFolder);
 					BufferedReader ndIn = new BufferedReader(new InputStreamReader(System.in));
 					corrOutputDB = ndIn.readLine();
+					if(!corrOutputDB.endsWith(".db")){
+						corrOutputDB = corrOutputDB + ".db";
+					}
 					corrConnection = DbConnector.connect(outputFolder + corrOutputDB);
 					DbConnector.createClassificationOutputTables(corrConnection, true);
 					System.out.println(
 							"Please enter the name of the new original Database. It will be stored in " + outputFolder);
 					ndIn = new BufferedReader(new InputStreamReader(System.in));
 					origOutputDB = ndIn.readLine();
+					if(!origOutputDB.endsWith(".db")){
+						origOutputDB = origOutputDB + ".db";
+					}
 					origConnection = DbConnector.connect(outputFolder + origOutputDB);
 					DbConnector.createClassificationOutputTables(origConnection, false);
 					answered = true;
