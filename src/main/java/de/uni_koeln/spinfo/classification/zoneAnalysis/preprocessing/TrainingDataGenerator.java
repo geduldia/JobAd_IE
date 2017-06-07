@@ -251,12 +251,12 @@ public class TrainingDataGenerator {
 				}
 			}
 		}
-		writeTrainingDataFile(newTrainingDataFile, goodData);
-		writeTrainingDataFile(badDataFile, badData);
+		writeTrainingDataFile(newTrainingDataFile, goodData, deletions);
+		writeTrainingDataFile(badDataFile, badData, deletions);
 	}
 	
 	public void writeTrainingDataFile(List<ClassifyUnit> toWrite) throws IOException{
-		writeTrainingDataFile(tdFile, toWrite);
+		writeTrainingDataFile(tdFile, toWrite, deletions);
 	}
 
 	/**
@@ -264,7 +264,7 @@ public class TrainingDataGenerator {
 	 * @param toWrite
 	 * @throws IOException
 	 */
-	public void writeTrainingDataFile(File trainingDataFile, List<ClassifyUnit> toWrite) throws IOException{
+	public void writeTrainingDataFile(File trainingDataFile, List<ClassifyUnit> toWrite, int deletions) throws IOException{
 		if(! trainingDataFile.exists() ){
 			trainingDataFile.createNewFile();
 		}

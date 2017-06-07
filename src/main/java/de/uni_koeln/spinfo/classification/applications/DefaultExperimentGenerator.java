@@ -42,9 +42,9 @@ public class DefaultExperimentGenerator {
 	// APP-CONFIGURATION
 	/////////////////////////////
 
-	static File trainingDataFile = new File("classification/data/trainingSets/TrainingDataScrambled.csv");
+	static File trainingDataFile = new File("classification/data/trainingSets/mergedTD.csv");
 
-	static File resultsOutputFile = new File("classification/output/defaultResults/preClassified");
+	static File resultsOutputFile = new File("classification/output/defaultResults/mergedTD");
 
 	static boolean preClassify = true;
 
@@ -74,20 +74,19 @@ public class DefaultExperimentGenerator {
 		ZoneJobs jobs = new ZoneJobs(stmc);
 
 		List<ZoneAbstractClassifier> classifiers = new ArrayList<ZoneAbstractClassifier>();
-		classifiers.add(new ZoneNaiveBayesClassifier());
+		//classifiers.add(new ZoneNaiveBayesClassifier());
 		classifiers.add(new ZoneKNNClassifier(false, 5, Distance.COSINUS));
 		classifiers.add(new ZoneKNNClassifier(false, 6, Distance.COSINUS));
 		classifiers.add(new ZoneKNNClassifier(false, 4, Distance.COSINUS));
-		classifiers.add(new ZoneKNNClassifier(false, 3, Distance.COSINUS));
-		classifiers.add(new ZoneRocchioClassifier(false, Distance.EUKLID));
-		classifiers.add(new ZoneRocchioClassifier(false, Distance.COSINUS));
-		// classifiers.add(new SVMClassifier());
+		//classifiers.add(new ZoneKNNClassifier(false, 3, Distance.COSINUS));
+		//classifiers.add(new ZoneRocchioClassifier(false, Distance.EUKLID));
+		//classifiers.add(new ZoneRocchioClassifier(false, Distance.COSINUS));
 
 		List<AbstractFeatureQuantifier> quantifiers = new ArrayList<AbstractFeatureQuantifier>();
 		quantifiers.add(new LogLikeliHoodFeatureQuantifier());
 		quantifiers.add(new TFIDFFeatureQuantifier());
-		quantifiers.add(new AbsoluteFrequencyFeatureQuantifier());
-		quantifiers.add(new RelativeFrequencyFeatureQuantifier());
+//		quantifiers.add(new AbsoluteFrequencyFeatureQuantifier());
+//		quantifiers.add(new RelativeFrequencyFeatureQuantifier());
 
 		for (ZoneAbstractClassifier classifier : classifiers) {
 
@@ -104,23 +103,19 @@ public class DefaultExperimentGenerator {
 
 							for (int stopwords = 0; stopwords <= 1; stopwords++) {
 
-								for (int n = 0; n <= 4; n++) {
+								for (int n = 0; n <= 3; n++) {
 
 									int[] nGrams = null;
 									switch (n) {
-									case 1: {
-										nGrams = new int[] { 2 };
-										break;
-									}
-									case 2: {
+									case 0: {
 										nGrams = new int[] { 3 };
 										break;
 									}
-									case 3: {
+									case 1: {
 										nGrams = new int[] { 2, 3 };
 										break;
 									}
-									case 4: {
+									case 2: {
 										nGrams = new int[] { 3, 4 };
 										break;
 									}

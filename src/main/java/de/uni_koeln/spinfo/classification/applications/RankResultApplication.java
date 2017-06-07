@@ -22,8 +22,8 @@ public class RankResultApplication {
 	// APP-CONFIGURATION
 	/////////////////////////////
 
-	static String toRank = "classification/output/defaultResults/07_12_15_preClassified";
-	static String output = "classification/output/rankings/defaultResults/07_12_15_preClassified";
+	static String toRank = "classification/output/defaultResults/mergedTD";
+	static String output = "classification/output/rankings/defaultResults/mergedTD";
 
 	/////////////////////////////
 	// END

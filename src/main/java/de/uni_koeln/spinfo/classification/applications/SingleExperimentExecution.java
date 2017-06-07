@@ -12,6 +12,7 @@ import de.uni_koeln.spinfo.classification.core.data.ExperimentConfiguration;
 import de.uni_koeln.spinfo.classification.core.data.FeatureUnitConfiguration;
 import de.uni_koeln.spinfo.classification.core.distance.Distance;
 import de.uni_koeln.spinfo.classification.core.featureEngineering.featureWeighting.AbstractFeatureQuantifier;
+import de.uni_koeln.spinfo.classification.core.featureEngineering.featureWeighting.LogLikeliHoodFeatureQuantifier;
 import de.uni_koeln.spinfo.classification.core.featureEngineering.featureWeighting.TFIDFFeatureQuantifier;
 import de.uni_koeln.spinfo.classification.zoneAnalysis.classifier.ZoneAbstractClassifier;
 import de.uni_koeln.spinfo.classification.zoneAnalysis.classifier.ZoneKNNClassifier;
@@ -37,25 +38,25 @@ public class SingleExperimentExecution {
 	// APP-CONFIGURATION
 	/////////////////////////////
 
-	static File inputFile = new File("classification/data/trainingSets/trainingDataScrambled.csv");
+	static File inputFile = new File("classification/data/trainingSets/mergedTD.csv");
 	static String outputFolder = "classification/output";
 	////////////////////////////////////////
 	/////// experiment parameters
 	///////////////////////////////////////
 
 	static boolean preClassify = true;
-	static File resultOutputFolder = new File("classification/output/singleResults/preClassified");
+	static File resultOutputFolder = new File("classification/output/singleResults/mergedTD");
 	static int knnValue = 4;
 	static boolean ignoreStopwords = false;
-	static boolean normalizeInput = false;
+	static boolean normalizeInput = true;
 	static boolean useStemmer = false;
-	static boolean suffixTrees = false;
-	static int[] nGrams = null;
+	static boolean suffixTrees = true;
+	static int[] nGrams = new int[]{2,3};
 	static int miScoredFeaturesPerClass = 0;
 	static Distance distance = Distance.COSINUS;
 	static ZoneAbstractClassifier classifier = new ZoneKNNClassifier(false, knnValue, distance);
-	static AbstractFeatureQuantifier quantifier = new TFIDFFeatureQuantifier();
-	static List<Integer> evaluationCategories = Arrays.asList(new Integer[] { 1, 2, 3 });
+	static AbstractFeatureQuantifier quantifier = new LogLikeliHoodFeatureQuantifier();
+	static List<Integer> evaluationCategories = Arrays.asList(new Integer[] {2});
 	//////////////////////////////////////
 	///////// END///
 	//////////////////////////////////////
