@@ -1,7 +1,7 @@
 # JobAd_IE
 Classification (Zone Analysis) and Information Extraction From Job Ads
 
-Code for Classification and Information Extraction from job advertisements as part of my Master's Thesis.
+Code for Classification and Information Extraction from job advertisements as part of my <a href="http://www.spinfo.phil-fak.uni-koeln.de/sites/spinfo/arbeiten/Masterthesis_Alena.pdf">Master's Thesis</a>.
 
 ### 1.Classification/Zone-Analysis
 Splits JobAds into paragraphs and classifies them into the four classes
