@@ -28,7 +28,7 @@ SimpleRulebasedExraction verwendet diese als Input zur Kompetenzextraktion und s
 Mit CreateCompetenceTrainingData, einem interaktiven Workflow zur Annotation von Kompetenzen, kann ein Testkorpus für Evaluationszwecke erstellt werden. (Ein manuell annotiertes Korpus befindet sich bereits im Ordern test/resources/information_extraction/trainingdata)
 
 EvaluateSimpleRulebasedExtraction und EvaluateBootstrapExtraction, führen eine Extraktion mit dem jeweiligen Verfahren durch und evaluieren die Ergebnisse im Anschluss. Ausführliche Evaluationsergebnisse (inklusive aller richtig und falsch extrahieren Entitäten) werden als Text-files gespeichert (test/resources/informationextraction/output/evaluation_files). 
-Bei der Evaluation des Bootstrapping-Ansatzes werden außerdem sämtliche automatisch generierten Patterns hinterlegt (test/resources/information_extraction/output).
+Bei der Evaluation des Bootstrapping-Ansatzes werden außerdem sämtliche automatisch generierten Patterns gespeichert (test/resources/information_extraction/output).
 
 ______________________________________________________________________________________
 
